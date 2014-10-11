@@ -2,7 +2,6 @@
 
 Lists of links and references for the new mindset and approches on interface design and development.
 
-
 <section>
 ##1) Mindset
 
@@ -30,6 +29,7 @@ Lists of links and references for the new mindset and approches on interface des
 
 
 
+<br/>
 <section>
 ##2) Process / Workflow
 
@@ -46,6 +46,7 @@ Lists of links and references for the new mindset and approches on interface des
 
 
 
+<br/>
 <section>
 ##3) Visual Design Deliverables
 
@@ -63,6 +64,7 @@ Lists of links and references for the new mindset and approches on interface des
 
 
 
+<br/>
 <section>
 ##4) CSS Architecture
 
@@ -94,6 +96,7 @@ Lists of links and references for the new mindset and approches on interface des
 
 
 
+<br/>
 <section>
 ##5) Styleguides / Pattern Libraries
 
