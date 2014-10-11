@@ -13,24 +13,28 @@ Lists of links and references for the new mindset and approches on interface des
 
 ###Quotes
 
-> We’re not designing pages, we’re designing systems of components. — Stephen Hay
+> "We’re not designing pages, we’re designing systems of components." — Stephen Hay
 
+> "A beautiful design system is about finding the same balance of consistency and variety. Too systematic and the design becomes predictable and repetitive. Too much variation and the system is confusing and overwhelming." — Yesenia Perez-Cruz 
 
 ###References
 
 - http://bradfrostweb.com/blog/post/atomic-web-design/
 - http://bradfrostweb.com/blog/post/development-is-design/
+- http://daverupert.com/2013/04/responsive-deliverables/
+- - http://24ways.org/2012/design-systems/
+- http://cognition.happycog.com/article/sweet-systems
+- http://cognition.happycog.com/article/make-sweet-systems-sweeter
+- http://danielmall.com/articles/the-post-psd-era/
 - https://medium.com/@bkrall/what-does-designing-in-the-browser-mean-3ccb1dfad980
 - https://medium.com/@astralwave/designing-for-outcomes-a6484e1682cc
-- http://24ways.org/2012/design-systems/
 - http://getflexin.com/styleguide-driven-development/
 - http://wearemudlark.com/blog/the-new-mudlark-website/
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
-- http://daverupert.com/2013/04/responsive-deliverables/
 - http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
-- http://danielmall.com/articles/the-post-psd-era/
 - http://www.smashingmagazine.com/2012/05/30/design-process-responsive-age/
-- http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/ [pt-br]
+- [pt-br] http://arquiteturadeinformacao.com/mobile/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/ 
+- [pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
 </section>
 
 
@@ -45,7 +49,7 @@ Lists of links and references for the new mindset and approches on interface des
   - Author of *Responsive Design Workflow* book: http://responsivedesignworkflow.com/
   - Personal site: http://www.the-haystack.com/
 
-###Cases/examples
+###Cases
 - http://bradfrostweb.com/blog/post/entertainment-weekly/
 - http://bradfrostweb.com/blog/post/techcrunch/
 </section>
@@ -69,11 +73,26 @@ Lists of links and references for the new mindset and approches on interface des
 </section>
 
 ###Techniques
-- Style tiles
-- Style prototypes
-- Ellement collages
-- Visual inventory
 
+####Style tiles
+- Main concept: http://styletil.es/
+- Video: http://vimeo.com/35216558
+- Examples: several examples on Pinterest and Google Images 
+
+####Style prototypes
+- Main concept: http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype
+- Example: http://sparkbox.github.io/style-prototype/
+
+####Ellement collages
+- Main concept: http://danielmall.com/articles/rif-element-collages/
+- Video: http://typecast.com/seminars/post-comp
+- Further reference:
+  - http://www.amazeelabs.com/en/blog/element-collage
+  - http://www.aztekweb.com/blog/post/Dan-Mall-(and-Element-Collages)-to-the-Rescue!.aspx
+
+####Visual inventory
+- Main concept: http://danielmall.com/articles/visual-inventory/
+- Examples: https://speakerdeck.com/danielmall/sifter-visual-inventory
 
 <br/>
 <section>
@@ -92,17 +111,43 @@ Lists of links and references for the new mindset and approches on interface des
   - Creator of CSS Guidelines: http://cssguidelin.es/<br/>
   - Personal site: http://csswizardry.com/
 
+###General concept
+
+- http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
+- http://www.sitepoint.com/series/css-architectures/
+- http://engineering.appfolio.com/2012/11/16/css-architecture/
+- http://blog.millermedeiros.com/solid-css/
+- http://snugug.com/musings/css-strategy
+- http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
+- [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
+
+
 ###Methodologies
-- SMACSS: https://smacss.com/
-- OOCSS: https://github.com/stubbornella/oocss/
-- BEM: http://bem.info/
-- DRY: http://vimeo.com/38063798
-- MVCSS: http://mvcss.github.io/
-- ComponentCSS: http://componentcss.com/
-- DoCSSa: http://docssa.info/
-- AMCSS: http://amcss.github.io/
-- CSS For Grownups: https://www.youtube.com/watch?v=ZpFdyfs03Ug
-- S.U.C.K.S.: https://github.com/team-sass/sucks
+- **SMACSS:** https://smacss.com/
+- **OOCSS:** https://github.com/stubbornella/oocss/
+- **BEM:** http://bem.info/
+- **DRY:** http://vimeo.com/38063798
+- **MVCSS:** http://mvcss.github.io/
+- **ComponentCSS:** http://componentcss.com/
+- **DoCSSa:** http://docssa.info/
+- **AMCSS:** http://amcss.github.io/
+- **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
+- **S.U.C.K.S.:** https://github.com/team-sass/sucks
+
+
+###Guidelines and best practices
+- http://cssguidelin.es/
+- https://github.com/necolas/idiomatic-css
+- http://gotofritz.net/blog/geekery/structuring-css/
+- http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+
+
+###Frameworks / Boilerplates
+- https://developers.google.com/web/starter-kit
+- https://github.com/suitcss
+- https://github.com/inuitcss
+- https://github.com/mvcss
+
 </section>
 
 
@@ -122,21 +167,22 @@ Lists of links and references for the new mindset and approches on interface des
 
 ###References
 - https://blog.engineyard.com/2011/front-end-maintainability-with-sass-and-style-guides
-
+- http://snugug.com/musings/style-guide-questionnaire-results
 
 ###Tools
-- KSS
+- **KSS**
   - http://warpspire.com/kss 
   - https://github.com/kneath/kss
-- Pattern Lab
+- **Pattern Lab**
   - http://patternlab.io/
-- Rock Hammer
+- **Rock Hammer**
   - http://malarkey.github.io/Rock-Hammer/
-- Hologram
+- **Hologram**
   - http://trulia.github.io/hologram/
 
 
 ###Examples
+- GitHub: https://github.com/styleguide/css
 - Sales Force: http://sfdc-styleguide.herokuapp.com/
 - UK Gov: https://designpatterTns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql
 - Starbucks: http://www.starbucks.com/static/reference/styleguide/
