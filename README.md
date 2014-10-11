@@ -11,12 +11,18 @@ Lists of links and references for the new mindset and approches on interface des
   - Created Atomic Design concept: http://bradfrostweb.com/blog/post/atomic-web-design/
   - Personal site: http://bradfrostweb.com/
 
+###Quotes
+
+> We’re not designing pages, we’re designing systems of components. — Stephen Hay
+
+
 ###References
 
 - http://bradfrostweb.com/blog/post/atomic-web-design/
 - http://bradfrostweb.com/blog/post/development-is-design/
 - https://medium.com/@bkrall/what-does-designing-in-the-browser-mean-3ccb1dfad980
 - https://medium.com/@astralwave/designing-for-outcomes-a6484e1682cc
+- http://24ways.org/2012/design-systems/
 - http://getflexin.com/styleguide-driven-development/
 - http://wearemudlark.com/blog/the-new-mudlark-website/
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
@@ -124,8 +130,11 @@ Lists of links and references for the new mindset and approches on interface des
   - https://github.com/kneath/kss
 - Pattern Lab
   - http://patternlab.io/
+- Rock Hammer
+  - http://malarkey.github.io/Rock-Hammer/
 - Hologram
   - http://trulia.github.io/hologram/
+
 
 ###Examples
 - Sales Force: http://sfdc-styleguide.herokuapp.com/
