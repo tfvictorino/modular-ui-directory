@@ -62,6 +62,11 @@ Lists of links and references for the new mindset and approches on interface des
   - Further reference: https://speakerdeck.com/danielmall
 </section>
 
+###Techniques
+- Style tiles
+- Style prototypes
+- Ellement collages
+- Visual inventory
 
 
 <br/>
