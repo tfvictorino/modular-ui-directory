@@ -22,7 +22,7 @@ Lists of links and references for the new mindset and approches on interface des
 - http://bradfrostweb.com/blog/post/atomic-web-design/
 - http://bradfrostweb.com/blog/post/development-is-design/
 - http://daverupert.com/2013/04/responsive-deliverables/
-- - http://24ways.org/2012/design-systems/
+- http://24ways.org/2012/design-systems/
 - http://cognition.happycog.com/article/sweet-systems
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
 - http://danielmall.com/articles/the-post-psd-era/
@@ -74,25 +74,22 @@ Lists of links and references for the new mindset and approches on interface des
 
 ###Techniques
 
-####Style tiles
-- Main concept: http://styletil.es/
-- Video: http://vimeo.com/35216558
-- Examples: several examples on Pinterest and Google Images 
-
-####Style prototypes
-- Main concept: http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype
-- Example: http://sparkbox.github.io/style-prototype/
-
-####Ellement collages
-- Main concept: http://danielmall.com/articles/rif-element-collages/
-- Video: http://typecast.com/seminars/post-comp
-- Further reference:
-  - http://www.amazeelabs.com/en/blog/element-collage
-  - http://www.aztekweb.com/blog/post/Dan-Mall-(and-Element-Collages)-to-the-Rescue!.aspx
-
-####Visual inventory
-- Main concept: http://danielmall.com/articles/visual-inventory/
-- Examples: https://speakerdeck.com/danielmall/sifter-visual-inventory
+- **Style tiles**
+  - Main concept: http://styletil.es/
+  - Video: http://vimeo.com/35216558
+  - Examples: several examples on Pinterest and Google Images 
+- **Style prototypes**
+  - Main concept: http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype
+  - Example: http://sparkbox.github.io/style-prototype/
+- **Ellement collages**
+  - Main concept: http://danielmall.com/articles/rif-element-collages/
+  - Video: http://typecast.com/seminars/post-comp
+  - Further reference:
+    - http://www.amazeelabs.com/en/blog/element-collage
+    - http://www.aztekweb.com/blog/post/Dan-Mall-(and-Element-Collages)-to-the-Rescue!.aspx
+- **Visual inventory**
+  - Main concept: http://danielmall.com/articles/visual-inventory/
+  - Examples: https://speakerdeck.com/danielmall/sifter-visual-inventory
 
 <br/>
 <section>
@@ -139,6 +136,7 @@ Lists of links and references for the new mindset and approches on interface des
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
 - http://gotofritz.net/blog/geekery/structuring-css/
+- https://make.wordpress.org/core/handbook/coding-standards/css/
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 
 
@@ -166,26 +164,31 @@ Lists of links and references for the new mindset and approches on interface des
   - Personal site: http://bradfrostweb.com/
 
 ###References
+- http://24ways.org/2011/front-end-style-guides/
+- http://boagworld.com/design/pattern-library/
+- http://alistapart.com/article/creating-style-guides
+- http://sideproject.io/front-end-and-ui-style-guides/
 - https://blog.engineyard.com/2011/front-end-maintainability-with-sass-and-style-guides
 - http://snugug.com/musings/style-guide-questionnaire-results
 
 ###Tools
-- **KSS**
-  - http://warpspire.com/kss 
-  - https://github.com/kneath/kss
-- **Pattern Lab**
-  - http://patternlab.io/
-- **Rock Hammer**
-  - http://malarkey.github.io/Rock-Hammer/
-- **Hologram**
-  - http://trulia.github.io/hologram/
+- http://welchcanavan.com/styleguide-roundup/
+- **KSS:** http://warpspire.com/kss 
+- **Pattern Lab:** http://patternlab.io/
+- **Rock Hammer:** http://malarkey.github.io/Rock-Hammer/
+- **Hologram:** http://trulia.github.io/hologram/
 
 
 ###Examples
-- GitHub: https://github.com/styleguide/css
-- Sales Force: http://sfdc-styleguide.herokuapp.com/
-- UK Gov: https://designpatterTns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql
-- Starbucks: http://www.starbucks.com/static/reference/styleguide/
+- https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
+- **GitHub:** https://github.com/styleguide/css
+- **Mailchimp:** https://ux.mailchimp.com/patterns/
+- **Mozilla:** https://www.mozilla.org/en-US/styleguide/
+- **Sales Force:** http://sfdc-styleguide.herokuapp.com/
+- **Pivotal:** https://console.run.pivotal.io/style_guide
+- **Sass**: http://sass-lang.com/styleguide
+- **UK Gov:** https://designpatterTns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql
+- **Starbucks:** http://www.starbucks.com/static/reference/styleguide/
 
 </section>
   
