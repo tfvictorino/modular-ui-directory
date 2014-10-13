@@ -86,6 +86,7 @@ Other resource lists:
 
 ###PSD Workflow
 
+- http://extendingphotoshop.com/
 - http://davekilljoy.com/my-random-thoughts/a-scalable-multi-designer-photoshop-framework
 - http://danielmall.com/articles/creative-cloud-libraries/
 - http://bjango.com/articles/photoshopcc2014smartobjects/
@@ -159,6 +160,7 @@ Other resource lists:
 - https://github.com/necolas/idiomatic-css
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 - https://make.wordpress.org/core/handbook/coding-standards/css/
+- https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
 - http://gotofritz.net/blog/geekery/structuring-css/
 - https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
 
