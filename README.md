@@ -28,6 +28,7 @@ Other resource lists:
 
 ###References
 
+- http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
 - http://bradfrostweb.com/blog/post/atomic-web-design/
 - http://bradfrostweb.com/blog/post/development-is-design/
 - http://daverupert.com/2013/04/responsive-deliverables/
@@ -44,7 +45,6 @@ Other resource lists:
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
 - http://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them-atomic-design-patternlab/
 - http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
-- http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
 - http://www.smashingmagazine.com/2012/05/30/design-process-responsive-age/
 - [pt-br] http://arquiteturadeinformacao.com/mobile/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/ 
 - [pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
@@ -60,6 +60,10 @@ Other resource lists:
 - **Stephen Hay**
   - Author of *Responsive Design Workflow* book: http://responsivedesignworkflow.com/
   - Personal site: http://www.the-haystack.com/
+
+
+###References
+- https://medium.com/@jaceyleigh/great-responsive-web-design-is-a-matter-of-process-270048a88c70
 
 ###Cases
 - http://bradfrostweb.com/blog/post/entertainment-weekly/
