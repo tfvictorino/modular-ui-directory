@@ -1,6 +1,8 @@
-#Component-oriented interface design
+#Component-oriented interface design and development
 
-Lists of links and references for the new mindset and approches on interface design and development.
+List of links and references for a new mindset, approach and workflow on interface design and development.
+
+Related subjects: components, design systems, atomic design, css architechures, front-end design, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, responsive workflow...
 
 <section>
 ##1) Mindset
@@ -29,6 +31,7 @@ Lists of links and references for the new mindset and approches on interface des
 - https://medium.com/@bkrall/what-does-designing-in-the-browser-mean-3ccb1dfad980
 - https://medium.com/@astralwave/designing-for-outcomes-a6484e1682cc
 - http://getflexin.com/styleguide-driven-development/
+- http://webuild.envato.com/blog/styleguide-driven-development/
 - http://wearemudlark.com/blog/the-new-mudlark-website/
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
 - http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
@@ -58,7 +61,7 @@ Lists of links and references for the new mindset and approches on interface des
 
 <br/>
 <section>
-##3) Visual Design Deliverables
+##3) Visual Design
 
 ###People to keep an eye on:
 
@@ -72,7 +75,15 @@ Lists of links and references for the new mindset and approches on interface des
   - Further reference: https://speakerdeck.com/danielmall
 </section>
 
-###Techniques
+
+###PSD Workflow
+
+- http://davekilljoy.com/my-random-thoughts/a-scalable-multi-designer-photoshop-framework
+- http://danielmall.com/articles/creative-cloud-libraries/
+- http://bjango.com/articles/photoshopcc2014smartobjects/
+
+
+###Deliverables
 
 - **Style tiles**
   - Main concept: http://styletil.es/
