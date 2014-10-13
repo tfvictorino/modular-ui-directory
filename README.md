@@ -159,10 +159,20 @@ Other resource lists:
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+- http://mdo.github.io/code-guide/
 - https://make.wordpress.org/core/handbook/coding-standards/css/
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
 - http://gotofritz.net/blog/geekery/structuring-css/
-- https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+
+
+###Cases
+- **GitHub:** http://markdotto.com/2014/07/23/githubs-css/
+- **CodePen:** http://codepen.io/chriscoyier/blog/codepens-css
+- **Medium:** https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+- **Trello:** http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/
+- **Lonely Planet:** http://ianfeather.co.uk/css-at-lonely-planet/
+- **Groupon:** http://mikeaparicio.com/2014/08/10/css-at-groupon/
+- **Buffer:** http://blog.brianlovin.com/buffers-css/
 
 
 
