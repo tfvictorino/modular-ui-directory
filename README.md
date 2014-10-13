@@ -2,7 +2,7 @@
 
 List of links and references for a new mindset, approach and workflow on interface design and development.
 
-Related subjects: components, design systems, atomic design, css architechures, front-end design, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, responsive workflow...
+Related subjects: components, design systems, atomic design, css architectures, front-end design, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, responsive workflow...
 
 <section>
 ##1) Mindset
@@ -40,9 +40,8 @@ Related subjects: components, design systems, atomic design, css architechures, 
 - [pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
 </section>
 
+---
 
-
-<br/>
 <section>
 ##2) Process / Workflow
 
@@ -57,9 +56,8 @@ Related subjects: components, design systems, atomic design, css architechures, 
 - http://bradfrostweb.com/blog/post/techcrunch/
 </section>
 
+---
 
-
-<br/>
 <section>
 ##3) Visual Design
 
@@ -101,8 +99,10 @@ Related subjects: components, design systems, atomic design, css architechures, 
 - **Visual inventory**
   - Main concept: http://danielmall.com/articles/visual-inventory/
   - Examples: https://speakerdeck.com/danielmall/sifter-visual-inventory
+</section>
 
-<br/>
+---
+
 <section>
 ##4) CSS Architecture
 
@@ -156,12 +156,10 @@ Related subjects: components, design systems, atomic design, css architechures, 
 - https://github.com/suitcss
 - https://github.com/inuitcss
 - https://github.com/mvcss
-
 </section>
 
+---
 
-
-<br/>
 <section>
 ##5) Styleguides / Pattern Libraries
 
