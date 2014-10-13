@@ -1,4 +1,3 @@
-<header>
 #Component-oriented interface design and development
 
 List of links and references for a new mindset, approach and workflow on interface design and development.
@@ -40,6 +39,7 @@ Other resource lists:
 - https://medium.com/@astralwave/designing-for-outcomes-a6484e1682cc
 - http://getflexin.com/styleguide-driven-development/
 - http://webuild.envato.com/blog/styleguide-driven-development/
+- https://engineering.eventbrite.com/styleguide-driven-development-at-eventbrite-introduction/
 - http://wearemudlark.com/blog/the-new-mudlark-website/
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
 - http://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them-atomic-design-patternlab/
