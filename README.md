@@ -1,8 +1,16 @@
+<header>
 #Component-oriented interface design and development
 
 List of links and references for a new mindset, approach and workflow on interface design and development.
 
 Related subjects: components, design systems, atomic design, css architectures, front-end design, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, responsive workflow...
+
+Other resource lists:
+- http://webfieldmanual.com/
+- http://bradfrost.github.io/this-is-responsive/
+</header>
+
+---
 
 <section>
 ##1) Mindset
@@ -34,6 +42,8 @@ Related subjects: components, design systems, atomic design, css architectures, 
 - http://webuild.envato.com/blog/styleguide-driven-development/
 - http://wearemudlark.com/blog/the-new-mudlark-website/
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
+- http://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them-atomic-design-patternlab/
+- http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
 - http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
 - http://www.smashingmagazine.com/2012/05/30/design-process-responsive-age/
 - [pt-br] http://arquiteturadeinformacao.com/mobile/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/ 
@@ -146,9 +156,11 @@ Related subjects: components, design systems, atomic design, css architectures, 
 ###Guidelines and best practices
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
-- http://gotofritz.net/blog/geekery/structuring-css/
-- https://make.wordpress.org/core/handbook/coding-standards/css/
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+- https://make.wordpress.org/core/handbook/coding-standards/css/
+- http://gotofritz.net/blog/geekery/structuring-css/
+- https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+
 
 
 ###Frameworks / Boilerplates
