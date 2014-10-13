@@ -134,10 +134,11 @@ Other resource lists:
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 - http://www.sitepoint.com/series/css-architectures/
 - http://engineering.appfolio.com/2012/11/16/css-architecture/
-- http://blog.millermedeiros.com/solid-css/
 - http://snugug.com/musings/css-strategy
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
+- http://blog.millermedeiros.com/solid-css/
+- http://drewbarontini.com/articles/single-responsibility/
 
 
 ###Methodologies
