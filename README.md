@@ -29,13 +29,14 @@ Other resource lists:
 ###References
 
 - http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
-- http://bradfrostweb.com/blog/post/atomic-web-design/
 - http://bradfrostweb.com/blog/post/development-is-design/
-- http://daverupert.com/2013/04/responsive-deliverables/
+- http://bradfrostweb.com/blog/post/the-post-psd-era/
+- http://danielmall.com/articles/the-post-psd-era/
+- http://bradfrostweb.com/blog/post/atomic-web-design/
 - http://24ways.org/2012/design-systems/
 - http://cognition.happycog.com/article/sweet-systems
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
-- http://danielmall.com/articles/the-post-psd-era/
+- http://daverupert.com/2013/04/responsive-deliverables/
 - https://medium.com/@bkrall/what-does-designing-in-the-browser-mean-3ccb1dfad980
 - https://medium.com/@astralwave/designing-for-outcomes-a6484e1682cc
 - http://getflexin.com/styleguide-driven-development/
@@ -68,12 +69,28 @@ Other resource lists:
 ###Cases
 - http://bradfrostweb.com/blog/post/entertainment-weekly/
 - http://bradfrostweb.com/blog/post/techcrunch/
+- http://danielmall.com/articles/rif-design-flexibility/
 </section>
 
 ---
 
 <section>
-##3) Visual Design
+##3) Component patterns
+
+###References
+- http://blog.cloudfour.com/common-patterns/
+- https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
+- http://pea.rs/
+- http://codepen.io/patterns/
+- http://getbootstrap.com/
+- http://foundation.zurb.com/
+
+</section>
+
+---
+
+<section>
+##4) Visual Design
 
 ###People to keep an eye on:
 
@@ -119,7 +136,7 @@ Other resource lists:
 ---
 
 <section>
-##4) CSS Architecture
+##5) CSS Architecture
 
 ###People to keep an eye on:
 
@@ -142,6 +159,8 @@ Other resource lists:
 - http://snugug.com/musings/css-strategy
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
+- [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e
+- [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
 
@@ -190,7 +209,7 @@ Other resource lists:
 ---
 
 <section>
-##5) Styleguides / Pattern Libraries
+##6) Styleguides / Pattern Libraries
 
 ###People to keep an eye on:
 
