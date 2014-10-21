@@ -2,7 +2,7 @@
 
 List of links and references for a new mindset, approach and workflow on interface design and development.
 
-Related subjects: components, design systems, atomic design, css architectures, front-end design, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, responsive workflow...
+Related subjects: components (a.k.a. modules, objects), design systems, atomic design, css architectures, front-end design, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, responsive workflow...
 
 Other resource lists:
 - http://webfieldmanual.com/
