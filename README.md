@@ -79,11 +79,12 @@ Other resource lists:
 
 ###References
 - http://blog.cloudfour.com/common-patterns/
-- https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 - http://pea.rs/
+- http://beta.semantic-ui.com/
 - http://codepen.io/patterns/
 - http://getbootstrap.com/
 - http://foundation.zurb.com/
+- https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 
 </section>
 
