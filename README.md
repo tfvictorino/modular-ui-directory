@@ -158,15 +158,18 @@ Other resource lists:
 - http://www.sitepoint.com/series/css-architectures/
 - http://engineering.appfolio.com/2012/11/16/css-architecture/
 - http://snugug.com/musings/css-strategy
-- http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
-- [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d
+- [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7
+- [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
 
 
 ###Methodologies
+- http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
+- [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
+- 
 - **SMACSS:** https://smacss.com/
 - **OOCSS:** https://github.com/stubbornella/oocss/
 - **BEM:** http://bem.info/
