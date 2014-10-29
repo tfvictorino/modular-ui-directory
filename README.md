@@ -186,6 +186,7 @@ Other resource lists:
 - http://mdo.github.io/code-guide/
 - https://make.wordpress.org/core/handbook/coding-standards/css/
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
+- [pt-br] http://tableless.com.br/principios-para-escrever-css-de-forma-consistente
 - http://gotofritz.net/blog/geekery/structuring-css/
 
 
