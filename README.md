@@ -167,9 +167,10 @@ Other resource lists:
 
 
 ###Methodologies
+- [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
-- 
+
 - **SMACSS:** https://smacss.com/
 - **OOCSS:** https://github.com/stubbornella/oocss/
 - **BEM:** http://bem.info/
