@@ -179,6 +179,7 @@ Other resource lists:
 - **ComponentCSS:** http://componentcss.com/
 - **DoCSSa:** http://docssa.info/
 - **AMCSS:** http://amcss.github.io/
+- **ITCSS:** https://www.youtube.com/watch?v=1OKZOV-iLj4
 - **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
 - **S.U.C.K.S.:** https://github.com/team-sass/sucks
 
