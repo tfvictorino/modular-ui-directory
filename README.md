@@ -228,6 +228,7 @@ Other resource lists:
   - Personal site: http://bradfrostweb.com/
 
 ###References
+- http://styleguides.io/
 - http://24ways.org/2011/front-end-style-guides/
 - http://boagworld.com/design/pattern-library/
 - http://alistapart.com/article/creating-style-guides
