@@ -70,6 +70,7 @@ Other resource lists:
 - http://bradfrostweb.com/blog/post/entertainment-weekly/
 - http://bradfrostweb.com/blog/post/techcrunch/
 - http://danielmall.com/articles/rif-design-flexibility/
+- http://csswizardry.com/case-studies/nhs-nhsx-elearning-platform/
 </section>
 
 ---
