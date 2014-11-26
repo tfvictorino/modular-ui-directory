@@ -158,13 +158,17 @@ Other resource lists:
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 - http://www.sitepoint.com/series/css-architectures/
 - http://engineering.appfolio.com/2012/11/16/css-architecture/
-- http://snugug.com/musings/css-strategy
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
+
+###Counterpoints
+
+- http://snugug.com/musings/css-strategy
+- http://www.kapowaz.net/articles/cargo-cult-css
 
 
 ###Methodologies
@@ -204,6 +208,7 @@ Other resource lists:
 - **Lonely Planet:** http://ianfeather.co.uk/css-at-lonely-planet/
 - **Groupon:** http://mikeaparicio.com/2014/08/10/css-at-groupon/
 - **Buffer:** http://blog.brianlovin.com/buffers-css/
+- **GOV.UK:** https://github.com/alphagov/govuk_frontend_toolkit
 
 
 
