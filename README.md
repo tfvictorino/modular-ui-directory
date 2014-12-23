@@ -262,6 +262,11 @@ Other resource lists:
 - **UK Gov:** https://designpatterTns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql
 - **Starbucks:** http://www.starbucks.com/static/reference/styleguide/
 
+
+###Atomic Design approach
+- **Buffer:** https://bufferapp.com/style-guide
+- **Future Learn:** https://www.futurelearn.com/pattern-library
+
 </section>
 
 <section>
