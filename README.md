@@ -65,6 +65,7 @@ Other resource lists:
 
 ###References
 - https://medium.com/@jaceyleigh/great-responsive-web-design-is-a-matter-of-process-270048a88c70
+- http://bundlr.com/clips/4fd5ff99433682000100049e
 
 ###Cases
 - http://bradfrostweb.com/blog/post/entertainment-weekly/
