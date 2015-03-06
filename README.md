@@ -176,6 +176,7 @@ Other resource lists:
 ###Methodologies
 - [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
+- http://viget.com/inspire/css-squareoff
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
 
 - **SMACSS:** https://smacss.com/
@@ -200,6 +201,7 @@ Other resource lists:
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
 - [pt-br] http://tableless.com.br/principios-para-escrever-css-de-forma-consistente
 - http://gotofritz.net/blog/geekery/structuring-css/
+- http://learn.shayhowe.com/advanced-html-css/performance-organization/
 
 
 ###Cases
