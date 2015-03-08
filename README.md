@@ -192,7 +192,7 @@ Other resource lists:
 - **S.U.C.K.S.:** https://github.com/team-sass/sucks
 
 
-###Guidelines and best practices
+###Code writing: guidelines and best practices
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
@@ -202,6 +202,7 @@ Other resource lists:
 - [pt-br] http://tableless.com.br/principios-para-escrever-css-de-forma-consistente
 - http://gotofritz.net/blog/geekery/structuring-css/
 - http://learn.shayhowe.com/advanced-html-css/performance-organization/
+- https://github.com/byrichardpowell/CSS-Style
 
 
 ###Cases
@@ -213,7 +214,6 @@ Other resource lists:
 - **Groupon:** http://mikeaparicio.com/2014/08/10/css-at-groupon/
 - **Buffer:** http://blog.brianlovin.com/buffers-css/
 - **GOV.UK:** https://github.com/alphagov/govuk_frontend_toolkit
-
 
 
 ###Frameworks / Boilerplates
@@ -248,10 +248,13 @@ Other resource lists:
 
 ###Tools
 - http://welchcanavan.com/styleguide-roundup/
+- http://byrichardpowell.co.uk/post/48682993574/on-css-documentation
 - **KSS:** http://warpspire.com/kss 
 - **Pattern Lab:** http://patternlab.io/
 - **Rock Hammer:** http://malarkey.github.io/Rock-Hammer/
 - **Hologram:** http://trulia.github.io/hologram/
+- **StyleDocco:** http://jacobrask.github.io/styledocco/
+- **SC5:* http://styleguide.sc5.io/
 
 ###Automatization
 - http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
@@ -276,8 +279,14 @@ Other resource lists:
 
 </section>
 
+---
+
 <section>
 ##7) Role
+
+###People to keep an eye on:
+http://www.elyseholladay.com/
+
 
 ###Titles
 - Front-end Designer
@@ -289,6 +298,7 @@ Other resource lists:
 - http://www.lynda.com/Web-Web-Foundations-tutorials/Front-end-design/158666/158685-4.html
 - http://snook.ca/archives/opinion/design-engineering
 - https://github.com/micahgodbolt/front-end-architecture
+- http://www.elyseholladay.com/posts/2014/10/16/front-end-architect/
 - http://elyseholladay.github.io/front-end-arch-talk/
 - http://stackoverflow.com/questions/9700286/whats-the-difference-between-a-frontend-vs-ui-developer
 - http://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/
