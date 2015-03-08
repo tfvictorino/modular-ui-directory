@@ -253,6 +253,10 @@ Other resource lists:
 - **Rock Hammer:** http://malarkey.github.io/Rock-Hammer/
 - **Hologram:** http://trulia.github.io/hologram/
 
+###Automatization
+- http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
+- http://ianfeather.co.uk/a-maintainable-style-guide/
+
 
 ###Examples
 - https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
