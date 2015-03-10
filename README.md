@@ -164,6 +164,7 @@ Other resource lists:
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a
+- http://www.sitepoint.com/introducing-ccss-component-css/
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
 
