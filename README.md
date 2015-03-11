@@ -264,6 +264,7 @@ Other resource lists:
 
 ###Examples
 - https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
+- http://primercss.io/nav/
 - **GitHub:** https://github.com/styleguide/css
 - **Mailchimp:** https://ux.mailchimp.com/patterns/
 - **Mozilla:** https://www.mozilla.org/en-US/styleguide/
