@@ -159,6 +159,7 @@ Other resource lists:
 
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 - http://www.sitepoint.com/series/css-architectures/
+- http://philipwalton.com/articles/css-architecture/
 - http://engineering.appfolio.com/2012/11/16/css-architecture/
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d
