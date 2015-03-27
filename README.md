@@ -66,6 +66,7 @@ Other resource lists:
 ###References
 - https://medium.com/@jaceyleigh/great-responsive-web-design-is-a-matter-of-process-270048a88c70
 - http://bundlr.com/clips/4fd5ff99433682000100049e
+- http://bradfrost.com/blog/post/email-responses-1-workflow-educating-clients/
 
 ###Cases
 - http://bradfrostweb.com/blog/post/entertainment-weekly/
@@ -81,13 +82,15 @@ Other resource lists:
 ##3) Component patterns
 
 ###References
+- https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 - http://blog.cloudfour.com/common-patterns/
 - http://pea.rs/
 - http://beta.semantic-ui.com/
 - http://codepen.io/patterns/
+
+###UI Kits
 - http://getbootstrap.com/
 - http://foundation.zurb.com/
-- https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 
 </section>
 
