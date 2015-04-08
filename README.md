@@ -243,8 +243,12 @@ http://styleguides.io/
 - https://blog.engineyard.com/2011/front-end-maintainability-with-sass-and-style-guides
 - https://the-pastry-box-project.net/jina-bolton/2015-march-28
 - http://snugug.com/musings/style-guide-questionnaire-results
+
+###Automatization
 - http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
 - http://ianfeather.co.uk/a-maintainable-style-guide/
+- http://marcelosomers.com/keeping-pattern-libraries-in-sync
+
 
 ###Tools
 - https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05
