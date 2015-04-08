@@ -209,6 +209,7 @@ Other resource lists:
 
 ###Frameworks / Boilerplates
 - https://developers.google.com/web/starter-kit
+- http://skyline.is/
 - https://github.com/suitcss
 - https://github.com/inuitcss
 - https://github.com/mvcss
