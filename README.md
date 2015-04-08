@@ -2,32 +2,25 @@
 
 List of links and references for a new mindset, approach and workflow on interface design and development.
 
-Related subjects: components (a.k.a. modules, objects), design systems, atomic design, css architectures, front-end design, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, responsive workflow...
+Related subjects: components (a.k.a. modules, objects, patterns), design systems, atomic design, modular ui, css architecture, front-end design/architecture, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, living styleguiedes, responsive workflow...
 
 Other resource lists:
 - http://webfieldmanual.com/
 - http://bradfrost.github.io/this-is-responsive/
-</header>
+- http://styleguides.io/
 
 ---
 
 <section>
 ##1) Mindset
 
-###People to keep an eye on:
-
-- **Brad Frost**
-  - Created Atomic Design concept: http://bradfrostweb.com/blog/post/atomic-web-design/
-  - Personal site: http://bradfrostweb.com/
-
 ###Quotes
-
 > "We’re not designing pages, we’re designing systems of components." — Stephen Hay
 
 > "A beautiful design system is about finding the same balance of consistency and variety. Too systematic and the design becomes predictable and repetitive. Too much variation and the system is confusing and overwhelming." — Yesenia Perez-Cruz 
 
-###References
 
+###Concept
 - http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
 - http://bradfrostweb.com/blog/post/development-is-design/
 - http://bradfrostweb.com/blog/post/the-post-psd-era/
@@ -47,7 +40,7 @@ Other resource lists:
 - http://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them-atomic-design-patternlab/
 - http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
 - http://www.smashingmagazine.com/2012/05/30/design-process-responsive-age/
-- [pt-br] http://arquiteturadeinformacao.com/mobile/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/ 
+- [pt-br] http://arquiteturadeinformacao.com/mobile/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/
 - [pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
 </section>
 
@@ -57,7 +50,6 @@ Other resource lists:
 ##2) Process / Workflow
 
 ###People to keep an eye on:
-
 - **Stephen Hay**
   - Author of *Responsive Design Workflow* book: http://responsivedesignworkflow.com/
   - Personal site: http://www.the-haystack.com/
@@ -67,6 +59,7 @@ Other resource lists:
 - https://medium.com/@jaceyleigh/great-responsive-web-design-is-a-matter-of-process-270048a88c70
 - http://bundlr.com/clips/4fd5ff99433682000100049e
 - http://bradfrost.com/blog/post/email-responses-1-workflow-educating-clients/
+
 
 ###Cases
 - http://bradfrostweb.com/blog/post/entertainment-weekly/
@@ -91,7 +84,6 @@ Other resource lists:
 ###UI Kits
 - http://getbootstrap.com/
 - http://foundation.zurb.com/
-
 </section>
 
 ---
@@ -100,7 +92,6 @@ Other resource lists:
 ##4) Visual Design
 
 ###People to keep an eye on:
-
 - **Samantha Warren**
   - Created style tiles concept: http://styletil.es/
   - Personal site: http://samanthatoy.com/
@@ -109,11 +100,9 @@ Other resource lists:
   - Created visual inventory concept: http://danielmall.com/articles/visual-inventory/
   - Personal site: http://danielmall.com/
   - Further reference: https://speakerdeck.com/danielmall
-</section>
 
 
 ###PSD Workflow
-
 - http://extendingphotoshop.com/
 - http://davekilljoy.com/my-random-thoughts/a-scalable-multi-designer-photoshop-framework
 - http://danielmall.com/articles/creative-cloud-libraries/
@@ -121,7 +110,6 @@ Other resource lists:
 
 
 ###Deliverables
-
 - **Style tiles**
   - Main concept: http://styletil.es/
   - Video: http://vimeo.com/35216558
@@ -146,20 +134,18 @@ Other resource lists:
 ##5) CSS Architecture
 
 ###People to keep an eye on:
-
 - **Jonathan Snook**
-  - Created SMACSS concept: https://smacss.com/
+  - Creator of *SMACSS* concept: https://smacss.com/
   - Personal site: http://snook.ca/
-- **Nicolle Sullivan**
-  - Created OOCSS concept: http://oocss.org/ and https://github.com/stubbornella/oocss/
-  - Personal site: http://www.stubbornella.org/<br/>
 - **Harry Roberts**
-  - Creator of CSSWizardry blog: http://csswizardry.com/archive/
-  - Creator of CSS Guidelines: http://cssguidelin.es/<br/>
+  - Creator of *CSSWizardry* blog: http://csswizardry.com/archive/
+  - Creator of *CSS Guidelines*: http://cssguidelin.es/<br/>
   - Personal site: http://csswizardry.com/
+- **Nicolle Sullivan**
+  - Creator of *OOCSS* concept: http://oocss.org/ and https://github.com/stubbornella/oocss/
+  - Personal site: http://www.stubbornella.org/<br/>
 
-###General concept
-
+###Concept
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 - http://www.sitepoint.com/series/css-architectures/
 - http://philipwalton.com/articles/css-architecture/
@@ -172,8 +158,8 @@ Other resource lists:
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
 
-###Counterpoints
 
+###Counterpoints
 - http://snugug.com/musings/css-strategy
 - http://www.kapowaz.net/articles/cargo-cult-css
 
@@ -183,7 +169,6 @@ Other resource lists:
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - http://viget.com/inspire/css-squareoff
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
-
 - **SMACSS:** https://smacss.com/
 - **OOCSS:** https://github.com/stubbornella/oocss/
 - **BEM:** http://bem.info/
@@ -238,21 +223,31 @@ Other resource lists:
 
 - **Anna Debenham**
   - Author of *Front-end Style Guides* book: http://maban.co.uk/projects/front-end-style-guides/
+  - Creator and Podcast host of *Styleguides.io*: http://styleguides.io/
   - Personal site: http://maban.co.uk
 - **Brad Frost**
-  - Created the Pattern lab: http://patternlab.io/
+  - Creator of the *Atomic Design* concept: http://bradfrostweb.com/blog/post/atomic-web-design/
+  - Creator of *Pattern lab*: http://patternlab.io/
+  - Creator and Podcast host of *Styleguides.io*: http://styleguides.io/
   - Personal site: http://bradfrostweb.com/
 
-###References
-- http://styleguides.io/
+###Resource list
+http://styleguides.io/
+
+###Concept
 - http://24ways.org/2011/front-end-style-guides/
 - http://boagworld.com/design/pattern-library/
+- http://alistapart.com/article/writingainterfacestyleguide
 - http://alistapart.com/article/creating-style-guides
 - http://sideproject.io/front-end-and-ui-style-guides/
 - https://blog.engineyard.com/2011/front-end-maintainability-with-sass-and-style-guides
+- https://the-pastry-box-project.net/jina-bolton/2015-march-28
 - http://snugug.com/musings/style-guide-questionnaire-results
+- http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
+- http://ianfeather.co.uk/a-maintainable-style-guide/
 
 ###Tools
+- https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05
 - http://welchcanavan.com/styleguide-roundup/
 - http://byrichardpowell.co.uk/post/48682993574/on-css-documentation
 - **KSS:** http://warpspire.com/kss 
@@ -262,28 +257,8 @@ Other resource lists:
 - **StyleDocco:** http://jacobrask.github.io/styledocco/
 - **SC5:* http://styleguide.sc5.io/
 
-###Automatization
-- http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
-- http://ianfeather.co.uk/a-maintainable-style-guide/
-
-
 ###Examples
-- https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
-- http://primercss.io/nav/
-- **GitHub:** https://github.com/styleguide/css
-- **Mailchimp:** https://ux.mailchimp.com/patterns/
-- **Mozilla:** https://www.mozilla.org/en-US/styleguide/
-- **Sales Force:** http://sfdc-styleguide.herokuapp.com/
-- **Pivotal:** https://console.run.pivotal.io/style_guide
-- **Sass**: http://sass-lang.com/styleguide
-- **UK Gov:** https://designpatterTns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql
-- **Starbucks:** http://www.starbucks.com/static/reference/styleguide/
-
-
-###Atomic Design approach
-- **Buffer:** https://bufferapp.com/style-guide
-- **Future Learn:** https://www.futurelearn.com/pattern-library
-
+- http://styleguides.io/examples.html
 </section>
 
 ---
@@ -291,14 +266,11 @@ Other resource lists:
 <section>
 ##7) Role
 
-###People to keep an eye on:
-http://www.elyseholladay.com/
-
-
 ###Titles
 - Front-end Designer
 - Front-end Architect
 - UI Developer
+- Design Implementator
 
 
 ###References
