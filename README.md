@@ -231,8 +231,9 @@ Other resource lists:
   - Creator and Podcast host of *Styleguides.io*: http://styleguides.io/
   - Personal site: http://bradfrostweb.com/
 
-###Resource list
+###Resource lists
 http://styleguides.io/
+https://github.com/marcelosomers/pattern-library-directory
 
 ###Concept
 - http://24ways.org/2011/front-end-style-guides/
