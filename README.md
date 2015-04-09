@@ -185,6 +185,7 @@ Other resource lists:
 ###Code writing: guidelines and best practices
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
+- https://css-tricks.com/css-style-guides/o
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 - http://mdo.github.io/code-guide/
 - https://make.wordpress.org/core/handbook/coding-standards/css/
