@@ -285,6 +285,7 @@ https://github.com/marcelosomers/pattern-library-directory
 - http://snook.ca/archives/opinion/design-engineering
 - https://github.com/micahgodbolt/front-end-architecture
 - http://www.elyseholladay.com/posts/2014/10/16/front-end-architect/
+- https://github.com/klamping/Front-end-Architecture-Outline
 - http://elyseholladay.github.io/front-end-arch-talk/
 - http://stackoverflow.com/questions/9700286/whats-the-difference-between-a-frontend-vs-ui-developer
 - http://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/
