@@ -1,6 +1,6 @@
-#Component-oriented interface design and development
+#Modular User Interface
 
-List of links and references for a new mindset, approach and workflow on interface design and development.
+Directory of links and references for a new mindset, approaches and workflow techniques on interface design and development.
 
 Related subjects: components (a.k.a. modules, objects, patterns), design systems, atomic design, modular ui, css architecture, front-end design/architecture, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, living styleguiedes, responsive workflow...
 
