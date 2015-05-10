@@ -8,6 +8,7 @@ Other resource lists:
 - http://webfieldmanual.com/
 - http://bradfrost.github.io/this-is-responsive/
 - http://styleguides.io/
+- http://beaqn.in/frontend/
 
 ---
 
