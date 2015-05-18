@@ -187,7 +187,8 @@ Other resource lists:
 ###Code writing: guidelines and best practices
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
-- https://css-tricks.com/css-style-guides/o
+- https://css-tricks.com/css-style-guides/
+- http://sass-guidelin.es/
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 - http://mdo.github.io/code-guide/
 - https://make.wordpress.org/core/handbook/coding-standards/css/
@@ -274,14 +275,13 @@ https://github.com/marcelosomers/pattern-library-directory
 ---
 
 <section>
-##7) Role
+##7) Front-end Design
 
 ###Titles
 - Front-end Designer
 - Front-end Architect
 - UI Developer
 - Design Implementator
-
 
 ###References
 - http://www.lynda.com/Web-Web-Foundations-tutorials/Front-end-design/158666/158685-4.html
@@ -292,6 +292,5 @@ https://github.com/marcelosomers/pattern-library-directory
 - http://elyseholladay.github.io/front-end-arch-talk/
 - http://stackoverflow.com/questions/9700286/whats-the-difference-between-a-frontend-vs-ui-developer
 - http://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/
-
 </section>
   
