@@ -213,6 +213,7 @@ Other resource lists:
 
 
 ###Frameworks / Boilerplates
+- http://www.sitepoint.com/component-driven-css-frameworks/
 - https://developers.google.com/web/starter-kit
 - http://skyline.is/
 - https://github.com/suitcss
@@ -267,7 +268,7 @@ https://github.com/marcelosomers/pattern-library-directory
 - **Rock Hammer:** http://malarkey.github.io/Rock-Hammer/
 - **Hologram:** http://trulia.github.io/hologram/
 - **StyleDocco:** http://jacobrask.github.io/styledocco/
-- **SC5:* http://styleguide.sc5.io/
+- **SC5:** http://styleguide.sc5.io/
 
 ###Examples
 - http://styleguides.io/examples.html
