@@ -156,6 +156,7 @@ Other resource lists:
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a
 - http://drewbarontini.com/articles/everything-is-a-module/
+- https://speakerdeck.com/sugarenia/xxlcss-how-to-scale-css-and-keep-your-sanity
 - http://www.sitepoint.com/introducing-ccss-component-css/
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
