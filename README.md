@@ -18,7 +18,7 @@ Other resource lists:
 ###Quotes
 > "We’re not designing pages, we’re designing systems of components." — Stephen Hay
 
-> "A beautiful design system is about finding the same balance of consistency and variety. Too systematic and the design becomes predictable and repetitive. Too much variation and the system is confusing and overwhelming." — Yesenia Perez-Cruz 
+> "A beautiful design system is about finding the same balance of consistency and variety. Too systematic and the design becomes predictable and repetitive. Too much variation and the system is confusing and overwhelming." — Yesenia Perez-Cruz
 
 
 ###Concept
@@ -114,7 +114,7 @@ Other resource lists:
 - **Style tiles**
   - Main concept: http://styletil.es/
   - Video: http://vimeo.com/35216558
-  - Examples: several examples on Pinterest and Google Images 
+  - Examples: several examples on Pinterest and Google Images
 - **Style prototypes**
   - Main concept: http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype
   - Example: http://sparkbox.github.io/style-prototype/
@@ -169,6 +169,7 @@ Other resource lists:
 
 ###Methodologies
 - [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
+- http://sixrevisions.com/css/css-methodologies/
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - http://viget.com/inspire/css-squareoff
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
@@ -264,7 +265,7 @@ https://github.com/marcelosomers/pattern-library-directory
 - https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05
 - http://welchcanavan.com/styleguide-roundup/
 - http://byrichardpowell.co.uk/post/48682993574/on-css-documentation
-- **KSS:** http://warpspire.com/kss 
+- **KSS:** http://warpspire.com/kss
 - **Pattern Lab:** http://patternlab.io/
 - **Rock Hammer:** http://malarkey.github.io/Rock-Hammer/
 - **Hologram:** http://trulia.github.io/hologram/
@@ -296,4 +297,4 @@ https://github.com/marcelosomers/pattern-library-directory
 - http://stackoverflow.com/questions/9700286/whats-the-difference-between-a-frontend-vs-ui-developer
 - http://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/
 </section>
-  
+
