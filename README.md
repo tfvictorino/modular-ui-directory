@@ -1,8 +1,8 @@
 #Modular User Interface
 
-Directory of links and references for a new mindset, approaches and workflow techniques on interface design and development.
+Directory of links and references for a new mindset and approach on interface design, development and workflow.
 
-Related subjects: components (a.k.a. modules, objects, patterns), design systems, atomic design, modular ui, css architecture, front-end design/architecture, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, living styleguiedes, responsive workflow...
+Related subjects: components (a.k.a. modules, blocks, objects, patterns), design systems, atomic design, modular ui, css architecture, front-end design, front-end architecture, ui developer, visual design deliverables, HTML prototyping, designing on the browser, styleguide driven development, pattern libraries, living styleguides, responsive workflow...
 
 Other resource lists:
 - http://webfieldmanual.com/
@@ -12,7 +12,6 @@ Other resource lists:
 
 ---
 
-<section>
 ##1) Mindset
 
 ###Quotes
@@ -21,7 +20,7 @@ Other resource lists:
 > "A beautiful design system is about finding the same balance of consistency and variety. Too systematic and the design becomes predictable and repetitive. Too much variation and the system is confusing and overwhelming." — Yesenia Perez-Cruz
 
 
-###Concept
+###General concept
 - http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
 - http://bradfrostweb.com/blog/post/development-is-design/
 - http://bradfrostweb.com/blog/post/the-post-psd-era/
@@ -43,11 +42,9 @@ Other resource lists:
 - http://www.smashingmagazine.com/2012/05/30/design-process-responsive-age/
 - [pt-br] http://arquiteturadeinformacao.com/mobile/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/
 - [pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
-</section>
 
 ---
 
-<section>
 ##2) Process / Workflow
 
 ###People to keep an eye on:
@@ -56,7 +53,7 @@ Other resource lists:
   - Personal site: http://www.the-haystack.com/
 
 
-###References
+###General concept
 - https://medium.com/@jaceyleigh/great-responsive-web-design-is-a-matter-of-process-270048a88c70
 - http://bundlr.com/clips/4fd5ff99433682000100049e
 - http://bradfrost.com/blog/post/email-responses-1-workflow-educating-clients/
@@ -68,24 +65,21 @@ Other resource lists:
 - http://danielmall.com/articles/rif-design-flexibility/
 - http://danielmall.com/articles/responsive-mobile-entertainment-weekly/
 - http://csswizardry.com/case-studies/nhs-nhsx-elearning-platform/
-</section>
 
 ---
 
-<section>
 ##3) Component patterns
 
 ###References
 - https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 - http://blog.cloudfour.com/common-patterns/
 - http://pea.rs/
-- http://beta.semantic-ui.com/
 - http://codepen.io/patterns/
 
 ###UI Kits
+- http://semantic-ui.com/
 - http://getbootstrap.com/
 - http://foundation.zurb.com/
-</section>
 
 ---
 
@@ -135,18 +129,19 @@ Other resource lists:
 ##5) CSS Architecture
 
 ###People to keep an eye on:
-- **Jonathan Snook**
-  - Creator of *SMACSS* concept: https://smacss.com/
-  - Personal site: http://snook.ca/
 - **Harry Roberts**
-  - Creator of *CSSWizardry* blog: http://csswizardry.com/archive/
-  - Creator of *CSS Guidelines*: http://cssguidelin.es/<br/>
+  - Writer on *CSSWizardry* blog: http://csswizardry.com/archive/
+  - Created *CSS Guidelines*: http://cssguidelin.es/
   - Personal site: http://csswizardry.com/
-- **Nicolle Sullivan**
-  - Creator of *OOCSS* concept: http://oocss.org/ and https://github.com/stubbornella/oocss/
-  - Personal site: http://www.stubbornella.org/<br/>
+- **Jonathan Snook**
+  - Created *SMACSS*: https://smacss.com/
+  - Personal site: http://snook.ca/
+- **Mark Otto**
+  - Created *Bootstrap*: http://getbootstrap.com/ 
+  - Created *Primer* (GitHub's Framework): http://primercss.io/
+  - Personal site: http://markdotto.com/
 
-###Concept
+###General concept
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 - http://www.sitepoint.com/series/css-architectures/
 - http://philipwalton.com/articles/css-architecture/
@@ -157,21 +152,26 @@ Other resource lists:
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a
 - http://drewbarontini.com/articles/everything-is-a-module/
 - https://speakerdeck.com/sugarenia/xxlcss-how-to-scale-css-and-keep-your-sanity
-- http://www.sitepoint.com/introducing-ccss-component-css/
+
+
+####Specific concepts
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
+- http://csswizardry.com/2015/06/contextual-styling-ui-components-nesting-and-implementation-detail/
+- http://csswizardry.com/2015/04/cyclomatic-complexity-logic-in-css/
+- http://csswizardry.com/2015/03/immutable-css/
 
 
-###Counterpoints
+####Counterpoints
 - http://snugug.com/musings/css-strategy
 - http://www.kapowaz.net/articles/cargo-cult-css
 
 
 ###Methodologies
-- [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
 - http://sixrevisions.com/css/css-methodologies/
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - http://viget.com/inspire/css-squareoff
+- [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
 - **SMACSS:** https://smacss.com/
 - **OOCSS:** https://github.com/stubbornella/oocss/
@@ -179,12 +179,12 @@ Other resource lists:
 - **DRY:** http://vimeo.com/38063798
 - **MVCSS:** http://mvcss.github.io/
 - **ComponentCSS:** http://componentcss.com/
+- **CCSS:** http://sathify.github.io/CCSS/
 - **DoCSSa:** http://docssa.info/
 - **MCSS:** http://operatino.github.io/MCSS/en/
 - **AMCSS:** http://amcss.github.io/
 - **ITCSS:** https://www.youtube.com/watch?v=1OKZOV-iLj4
 - **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
-- **S.U.C.K.S.:** https://github.com/team-sass/sucks
 
 
 ###Code writing: guidelines and best practices
@@ -203,7 +203,7 @@ Other resource lists:
 - http://pointnorth.io/
 
 
-###Cases
+###Examples
 - **GitHub:** http://markdotto.com/2014/07/23/githubs-css/
 - **CodePen:** http://codepen.io/chriscoyier/blog/codepens-css
 - **Medium:** https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
@@ -222,15 +222,14 @@ Other resource lists:
 - https://github.com/inuitcss
 - https://github.com/mvcss
 - http://primercss.io/
-</section>
+
 
 ---
 
-<section>
+
 ##6) Styleguides / Pattern Libraries
 
 ###People to keep an eye on:
-
 - **Anna Debenham**
   - Author of *Front-end Style Guides* book: http://maban.co.uk/projects/front-end-style-guides/
   - Creator and Podcast host of *Styleguides.io*: http://styleguides.io/
@@ -241,9 +240,11 @@ Other resource lists:
   - Creator and Podcast host of *Styleguides.io*: http://styleguides.io/
   - Personal site: http://bradfrostweb.com/
 
+
 ###Resource lists
 http://styleguides.io/
 https://github.com/marcelosomers/pattern-library-directory
+
 
 ###Concept
 - http://24ways.org/2011/front-end-style-guides/
@@ -254,6 +255,7 @@ https://github.com/marcelosomers/pattern-library-directory
 - https://blog.engineyard.com/2011/front-end-maintainability-with-sass-and-style-guides
 - https://the-pastry-box-project.net/jina-bolton/2015-march-28
 - http://snugug.com/musings/style-guide-questionnaire-results
+
 
 ###Automatization
 - http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
@@ -274,11 +276,11 @@ https://github.com/marcelosomers/pattern-library-directory
 
 ###Examples
 - http://styleguides.io/examples.html
-</section>
+
 
 ---
 
-<section>
+
 ##7) Front-end Design
 
 ###Titles
@@ -296,5 +298,3 @@ https://github.com/marcelosomers/pattern-library-directory
 - http://elyseholladay.github.io/front-end-arch-talk/
 - http://stackoverflow.com/questions/9700286/whats-the-difference-between-a-frontend-vs-ui-developer
 - http://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/
-</section>
-
