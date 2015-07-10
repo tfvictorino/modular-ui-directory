@@ -170,6 +170,7 @@ Other resource lists:
 ###Methodologies
 - http://sixrevisions.com/css/css-methodologies/
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
+- http://www.sitepoint.com/atomic-oobemitscss/
 - http://viget.com/inspire/css-squareoff
 - [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
