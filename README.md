@@ -82,6 +82,7 @@ Other resource lists:
 - http://semantic-ui.com/
 - http://getbootstrap.com/
 - http://foundation.zurb.com/
+- http://getuikit.com/
 
 ---
 
