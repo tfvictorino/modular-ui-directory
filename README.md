@@ -9,6 +9,8 @@ Other resource lists:
 - http://bradfrost.github.io/this-is-responsive/
 - http://styleguides.io/
 - http://beaqn.in/frontend/
+- https://github.com/davidtheclark/scalable-css-reading-list
+- https://github.com/marcelosomers/pattern-library-directory
 
 ---
 
@@ -240,11 +242,6 @@ Other resource lists:
   - Creator of *Pattern lab*: http://patternlab.io/
   - Creator and Podcast host of *Styleguides.io*: http://styleguides.io/
   - Personal site: http://bradfrostweb.com/
-
-
-###Resource lists
-http://styleguides.io/
-https://github.com/marcelosomers/pattern-library-directory
 
 
 ###Concept
