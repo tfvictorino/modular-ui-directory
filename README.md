@@ -67,6 +67,7 @@ Other resource lists:
 - http://danielmall.com/articles/rif-design-flexibility/
 - http://danielmall.com/articles/responsive-mobile-entertainment-weekly/
 - http://csswizardry.com/case-studies/nhs-nhsx-elearning-platform/
+- http://codepen.seesparkbox.com/
 
 ---
 
