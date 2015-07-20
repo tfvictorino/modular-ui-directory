@@ -226,6 +226,7 @@ Other resource lists:
 - https://github.com/inuitcss
 - https://github.com/mvcss
 - http://primercss.io/
+- http://www.basscss.com/
 
 
 ---
