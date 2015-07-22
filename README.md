@@ -200,6 +200,7 @@ Other resource lists:
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 - http://mdo.github.io/code-guide/
 - https://make.wordpress.org/core/handbook/coding-standards/css/
+- https://web-design-weekly.com/2015/07/21/creating-better-css/
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
 - [pt-br] http://tableless.com.br/principios-para-escrever-css-de-forma-consistente
 - http://gotofritz.net/blog/geekery/structuring-css/
