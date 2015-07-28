@@ -190,6 +190,7 @@ Other resource lists:
 - **AMCSS:** http://amcss.github.io/
 - **ITCSS:** https://www.youtube.com/watch?v=1OKZOV-iLj4
 - **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
+- **f(CSS):** http://www.jon.gold/2015/07/functional-css/
 
 
 ###Code writing: guidelines and best practices
@@ -207,6 +208,7 @@ Other resource lists:
 - http://learn.shayhowe.com/advanced-html-css/performance-organization/
 - https://github.com/byrichardpowell/CSS-Style
 - http://pointnorth.io/
+- https://blog.colepeters.com/some-things-ive-learned-about-css-so-far/
 
 
 ###Examples
@@ -229,6 +231,7 @@ Other resource lists:
 - https://github.com/mvcss
 - http://primercss.io/
 - http://www.basscss.com/
+- http://tachyons.io/
 
 
 ---
