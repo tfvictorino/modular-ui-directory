@@ -190,6 +190,7 @@ Other resource lists:
 - **MCSS:** http://operatino.github.io/MCSS/en/
 - **AMCSS:** http://amcss.github.io/
 - **ITCSS:** https://www.youtube.com/watch?v=1OKZOV-iLj4
+- http://www.hugobessa.com.br/posts/ITCSS-uma-maneira-de-pensar-arquiteturas-css/
 - **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
 - **f(CSS):** http://www.jon.gold/2015/07/functional-css/
 
