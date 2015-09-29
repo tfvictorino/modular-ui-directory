@@ -29,6 +29,7 @@ Other resource lists:
 - http://danielmall.com/articles/the-post-psd-era/
 - http://bradfrostweb.com/blog/post/atomic-web-design/
 - http://24ways.org/2012/design-systems/
+- https://css-tricks.com/design-systems-building-future/
 - http://cognition.happycog.com/article/sweet-systems
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
 - http://daverupert.com/2013/04/responsive-deliverables/
