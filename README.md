@@ -60,6 +60,7 @@ Other resource lists:
 - https://medium.com/@jaceyleigh/great-responsive-web-design-is-a-matter-of-process-270048a88c70
 - http://bundlr.com/clips/4fd5ff99433682000100049e
 - http://bradfrost.com/blog/post/email-responses-1-workflow-educating-clients/
+- [pt-br] http://www.uxdesign.blog.br/design-responsivo/responsive-design-workflow/
 
 
 ###Cases
