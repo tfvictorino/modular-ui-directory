@@ -309,18 +309,3 @@ Other resource lists:
 - https://github.com/klamping/Front-end-Architecture-Outline
 - https://medium.com/@edenvidal/the-rise-of-the-full-stack-designer-and-the-tools-he-uses-3daf015eb3fc
 
-
----
-
-
-##8) Product Design
-
-###References
-https://medium.com/@nodesource/what-is-digital-product-design-93caad4e4035f
-http://get.invisionapp.com/chapter-1-of-making-a-product-designer
-http://get.invisionapp.com/chapter-2-making-a-product-designer
-https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe
-
-###Books
-http://scotthurff.com/perfecting-product-design/
-
