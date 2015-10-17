@@ -48,4 +48,4 @@
 ___
 
 ####Sections
-**(1) Mindset and Motivations** • [(2) Workflow](workflow.md) • [(3) Planning and Structure](planning-and-structure.md) • [(4) Visual Design](visual-design.md) • [(5) CSS Architecture](css-architecture.md) • [(6) Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [(7) UI Development](ui-development.md)
+[Summary](README.md) • **Mindset and Motivations** • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [UI Development](ui-development.md)
