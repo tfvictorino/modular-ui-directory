@@ -40,3 +40,9 @@
 - http://getbootstrap.com/
 - http://foundation.zurb.com/
 - http://getuikit.com/
+
+<br/>
+___
+
+####Sections
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • **Planning and Structure** • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [UI Development](ui-development.md)

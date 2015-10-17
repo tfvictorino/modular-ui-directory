@@ -15,3 +15,9 @@
 - https://github.com/micahgodbolt/front-end-architecture
 - https://github.com/klamping/Front-end-Architecture-Outline
 - https://medium.com/@edenvidal/the-rise-of-the-full-stack-designer-and-the-tools-he-uses-3daf015eb3fc
+
+<br/>
+___
+
+####Sections
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • **UI Development**

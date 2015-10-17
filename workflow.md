@@ -22,3 +22,9 @@ http://csswizardry.com/case-studies/nhs-nhsx-elearning-platform/
 http://codepen.seesparkbox.com/
 http://wearemudlark.com/blog/the-new-mudlark-website/
 [pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
+
+<br/>
+___
+
+####Sections
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • **Workflow** • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [UI Development](ui-development.md)

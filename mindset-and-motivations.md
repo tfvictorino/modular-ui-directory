@@ -43,7 +43,6 @@
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
 - https://stuffandnonsense.co.uk/blog/about/time_to_stop_showing_clients_static_design_visuals/
 
-
 <br/>
 ___
 

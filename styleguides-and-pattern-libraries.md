@@ -43,3 +43,9 @@
 ###Examples
 - http://styleguides.io/examples.html
 - https://github.com/marcelosomers/pattern-library-directory
+
+<br/>
+___
+
+####Sections
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • **Styleguides and Pattern Libraries** • [UI Development](ui-development.md)

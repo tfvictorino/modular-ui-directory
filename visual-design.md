@@ -16,3 +16,9 @@
 - **Further reading:**
   - http://www.amazeelabs.com/en/blog/element-collage
   - http://www.aztekweb.com/blog/post/Dan-Mall-(and-Element-Collages)-to-the-Rescue!.aspx
+
+  <br/>
+  ___
+
+  ####Sections
+  [Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • **Visual Design** • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [UI Development](ui-development.md)
