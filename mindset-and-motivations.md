@@ -1,4 +1,4 @@
-##1) Mindset and Motivation
+##1) Mindset and Motivations
 
 ###System-thinking
 > "We’re not designing pages, we’re designing systems of components." — Stephen Hay  
