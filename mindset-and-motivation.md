@@ -25,7 +25,7 @@
 
 </br>
 
-###Design+Development Collaboration
+###Design/Development Collaboration
 > "The modern Web design process requires intense collaboration between designers and front-end developers. Real collaboration and communication are difficult, but we must get over that awkwardness in order to overcome the design/development divide." — Brad Frost  
 
 - http://bradfrostweb.com/blog/post/development-is-design/
