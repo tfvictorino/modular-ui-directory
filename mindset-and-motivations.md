@@ -42,3 +42,10 @@
 - https://medium.com/@astralwave/designing-for-outcomes-a6484e1682cc
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
 - https://stuffandnonsense.co.uk/blog/about/time_to_stop_showing_clients_static_design_visuals/
+
+
+<br/>
+___
+
+####Sections
+**(1) Mindset and Motivations** • [(2) Workflow](workflow.md) • [(3) Planning and Structure](planning-and-structure.md) • [(4) Visual Design](visual-design.md) • [(5) CSS Architecture](css-architecture.md) • [(6) Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [(7) UI Development](ui-development.md)
