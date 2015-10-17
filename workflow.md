@@ -14,9 +14,11 @@
 
 
 ###Cases
-- http://bradfrostweb.com/blog/post/entertainment-weekly/
-- http://bradfrostweb.com/blog/post/techcrunch/
-- http://danielmall.com/articles/rif-design-flexibility/
-- http://danielmall.com/articles/responsive-mobile-entertainment-weekly/
-- http://csswizardry.com/case-studies/nhs-nhsx-elearning-platform/
-- http://codepen.seesparkbox.com/
+http://bradfrostweb.com/blog/post/entertainment-weekly/
+http://bradfrostweb.com/blog/post/techcrunch/
+http://danielmall.com/articles/rif-design-flexibility/
+http://danielmall.com/articles/responsive-mobile-entertainment-weekly/
+http://csswizardry.com/case-studies/nhs-nhsx-elearning-platform/
+http://codepen.seesparkbox.com/
+http://wearemudlark.com/blog/the-new-mudlark-website/
+[pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
