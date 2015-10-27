@@ -21,8 +21,8 @@ Related subjects: components (a.k.a. modules, blocks, objects, patterns), design
 <br/>
 
 ##TO DO (version 2.0)
-- [x] Divide the directory in separed files/sections
-- [ ] Reorganize each file with better hierarchy and information architecture
+- [x] Divide the directory in separated files/sections
+- [ ] Reorganize each section's hierarchy and information architecture
   - [x] Section 1 (Mindset and Motivations)
   - [ ] Section 2 (Workflow)
   - [x] Section 3 (Planning and Structure)

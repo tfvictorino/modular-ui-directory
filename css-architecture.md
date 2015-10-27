@@ -61,6 +61,7 @@
 - http://www.hugobessa.com.br/posts/ITCSS-uma-maneira-de-pensar-arquiteturas-css/
 - **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
 - **f(CSS):** http://www.jon.gold/2015/07/functional-css/
+- **Enduring CSS:** https://leanpub.com/enduringcss
 
 
 ###Code writing: guidelines and best practices
