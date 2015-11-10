@@ -62,6 +62,8 @@
 - **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
 - **f(CSS):** http://www.jon.gold/2015/07/functional-css/
 - **Enduring CSS:** https://leanpub.com/enduringcss
+- **rscss:** http://rscss.io/
+- **Title CSS:** http://www.sitepoint.com/title-css-simple-approach-css-class-naming/
 
 
 ###Code writing: guidelines and best practices
@@ -71,6 +73,7 @@
 - http://sass-guidelin.es/
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 - http://mdo.github.io/code-guide/
+- http://primercss.io/guidelines/
 - https://make.wordpress.org/core/handbook/coding-standards/css/
 - https://web-design-weekly.com/2015/07/21/creating-better-css/
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
@@ -80,6 +83,8 @@
 - https://github.com/byrichardpowell/CSS-Style
 - http://pointnorth.io/
 - https://blog.colepeters.com/some-things-ive-learned-about-css-so-far/
+- http://workmanship.io/
+
 
 
 ###Examples
