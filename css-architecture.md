@@ -64,6 +64,7 @@
 - **Enduring CSS:** https://leanpub.com/enduringcss
 - **rscss:** http://rscss.io/
 - **Title CSS:** http://www.sitepoint.com/title-css-simple-approach-css-class-naming/
+- **Classy CSS:** http://una.im/classy-css/
 
 
 ###Code writing: guidelines and best practices
