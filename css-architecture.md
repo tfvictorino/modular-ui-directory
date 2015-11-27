@@ -61,7 +61,7 @@
 - http://www.hugobessa.com.br/posts/ITCSS-uma-maneira-de-pensar-arquiteturas-css/
 - **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
 - **f(CSS):** http://www.jon.gold/2015/07/functional-css/
-- **Enduring CSS:** https://leanpub.com/enduringcss
+- **Enduring CSS:** http://ecss.io/slides1/#/
 - **rscss:** http://rscss.io/
 - **Title CSS:** http://www.sitepoint.com/title-css-simple-approach-css-class-naming/
 - **Classy CSS:** http://una.im/classy-css/
