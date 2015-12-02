@@ -67,6 +67,13 @@
 - **Classy CSS:** http://una.im/classy-css/
 
 
+###Books
+- https://smacss.com/book/
+- https://leanpub.com/enduringcss
+- http://www.amazon.com/Front-End-Architecture-Blueprint-Scalable-Sustainable/dp/1491926783
+- [pt-br] http://www.casadocodigo.com.br/pages/sumario-css-eficiente
+
+
 ###Code writing: guidelines and best practices
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
