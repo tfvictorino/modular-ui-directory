@@ -1,5 +1,10 @@
 ##1) Mindset and Motivations
 
+###Modularity
+- https://www.w3.org/DesignIssues/Modularity.html
+
+<br/>
+
 ###System-thinking
 > "We’re not designing pages, we’re designing systems of components." — Stephen Hay  
 
