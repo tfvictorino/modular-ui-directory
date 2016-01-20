@@ -29,8 +29,11 @@
 
 <br/>
 
-###Interface Component References
-####Common patterns
+###Patterns
+####Concepts
+- http://danielmall.com/articles/content-display-patterns/
+
+####References
 - http://blog.cloudfour.com/common-patterns/
 - http://pea.rs/
 - http://codepen.io/patterns/

@@ -92,6 +92,11 @@
 - http://pointnorth.io/
 - https://blog.colepeters.com/some-things-ive-learned-about-css-so-far/
 - http://workmanship.io/
+- https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/
+
+
+###Class Naming
+http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 
 
 
