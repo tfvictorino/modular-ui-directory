@@ -16,6 +16,7 @@
 - https://css-tricks.com/design-systems-building-future/
 - http://cognition.happycog.com/article/sweet-systems
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
+- http://trentwalton.com/2016/02/26/atomic-classification/
 
 <br/>
 
