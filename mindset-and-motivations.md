@@ -17,6 +17,7 @@
 - http://cognition.happycog.com/article/sweet-systems
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
 - http://trentwalton.com/2016/02/26/atomic-classification/
+- https://medium.com/@kaelig/introducing-design-systems-ops-7f34c4561ba7
 
 <br/>
 
