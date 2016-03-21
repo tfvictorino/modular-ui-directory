@@ -10,6 +10,7 @@
 
 - http://lukebrooker.com/presentations/improving-your-responsive-workflow-with-style-guides/
 - http://bradfrostweb.com/blog/post/atomic-web-design/
+- http://atomicdesign.bradfrost.com/chapter-1/
 - http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
 - http://www.eightshapes.com/blog/2011/05/10/what-is-a-design-system/
 - http://24ways.org/2012/design-systems/

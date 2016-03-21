@@ -16,6 +16,7 @@
 - https://github.com/micahgodbolt/front-end-architecture
 - https://github.com/klamping/Front-end-Architecture-Outline
 - https://medium.com/@edenvidal/the-rise-of-the-full-stack-designer-and-the-tools-he-uses-3daf015eb3fc
+- https://medium.com/fed-or-dead/reflections-of-a-user-interface-developer-fbce08c31afc
 
 <br/>
 ___

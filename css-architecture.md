@@ -65,6 +65,7 @@
 - **rscss:** http://rscss.io/
 - **Title CSS:** http://www.sitepoint.com/title-css-simple-approach-css-class-naming/
 - **Classy CSS:** http://una.im/classy-css/
+- **Scally:** http://scally.chris-pearce.me/
 
 
 ###Books
@@ -82,6 +83,7 @@
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 - http://mdo.github.io/code-guide/
 - http://primercss.io/guidelines/
+- https://github.com/chris-pearce/css-guidelines
 - https://make.wordpress.org/core/handbook/coding-standards/css/
 - https://web-design-weekly.com/2015/07/21/creating-better-css/
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS
@@ -93,6 +95,7 @@
 - https://blog.colepeters.com/some-things-ive-learned-about-css-so-far/
 - http://workmanship.io/
 - https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/
+
 
 
 ###Class Naming
