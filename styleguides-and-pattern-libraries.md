@@ -13,6 +13,7 @@
 
 
 ###Concept
+- https://www.nngroup.com/articles/front-end-style-guides/
 - http://24ways.org/2011/front-end-style-guides/
 - http://boagworld.com/design/pattern-library/
 - http://alistapart.com/article/writingainterfacestyleguide
