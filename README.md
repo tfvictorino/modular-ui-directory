@@ -16,7 +16,6 @@ Related subjects: components (a.k.a. modules, blocks, objects, patterns), design
 ####[4) Visual Design](visual-design.md)  
 ####[5) CSS Architecture](css-architecture.md)  
 ####[6) Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)  
-####[7) UI Development](ui-development.md)
 
 <br/>
 
@@ -29,4 +28,3 @@ Related subjects: components (a.k.a. modules, blocks, objects, patterns), design
   - [x] Section 4 (Visual Design)
   - [ ] Section 5 (CSS Architecture)
   - [ ] Section 6 (Styleguides and Pattern Libraries)
-  - [ ] Section 7 (UI Development)

@@ -41,6 +41,7 @@
 - **StyleDocco:** http://jacobrask.github.io/styledocco/
 - **SC5:** http://styleguide.sc5.io/
 - **DocumentCSS:** http://documentcss.com/
+- **Styleguide:** http://devbridge.github.io/Styleguide/
 
 ###Examples
 - http://styleguides.io/examples.html
@@ -50,4 +51,4 @@
 ___
 
 ####Sections
-[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • **Styleguides and Pattern Libraries** • [UI Development](ui-development.md)
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • **Styleguides and Pattern Libraries**

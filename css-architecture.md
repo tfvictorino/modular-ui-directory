@@ -123,6 +123,7 @@ http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 - https://github.com/suitcss
 - https://github.com/inuitcss
 - https://github.com/mvcss
+- http://dropbox.github.io/scooter/index.html
 - http://primercss.io/
 - http://www.basscss.com/
 - http://tachyons.io/
@@ -132,4 +133,4 @@ http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 ___
 
 ####Sections
-[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • **CSS Architecture** • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [UI Development](ui-development.md)
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • **CSS Architecture** • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)

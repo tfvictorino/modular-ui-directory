@@ -19,6 +19,7 @@
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
 - http://trentwalton.com/2016/02/26/atomic-classification/
 - https://medium.com/@kaelig/introducing-design-systems-ops-7f34c4561ba7
+- http://tao.wearefriday.com/engineering/frontend/component-approach/
 
 <br/>
 
@@ -55,4 +56,4 @@
 ___
 
 ####Sections
-[Summary](README.md) • **Mindset and Motivations** • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md) • [UI Development](ui-development.md)
+[Summary](README.md) • **Mindset and Motivations** • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)
