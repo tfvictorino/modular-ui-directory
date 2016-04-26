@@ -57,7 +57,7 @@
 - **rscss:** http://rscss.io/
 - **Title CSS:** http://www.sitepoint.com/title-css-simple-approach-css-class-naming/
 - **Classy CSS:** http://una.im/classy-css/
-- **Scally:** http://scally.chris-pearce.me/
+- **MaintanableCSS:** http://maintainablecss.com/
 
 
 <br/>
@@ -121,10 +121,11 @@
 - https://github.com/suitcss
 - https://github.com/inuitcss
 - https://github.com/mvcss
-- http://dropbox.github.io/scooter/index.html
+- http://dropbox.github.io/scooter/
 - http://primercss.io/
 - http://www.basscss.com/
 - http://tachyons.io/
+- http://scally.chris-pearce.me
 
 
 <br/>
