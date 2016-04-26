@@ -4,7 +4,9 @@
 - http://danielmall.com/articles/content-display-patterns/
 - http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 
+
 <br/>
+
 
 ### References
 ####Common UI Patterns
