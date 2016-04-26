@@ -22,10 +22,10 @@ Related subjects: components (a.k.a. modules, blocks, objects, patterns), design
 ##TO DO
 - [x] Divide the directory in separated files/sections
 - [x] Reorganize general section organization
-- [ ] Reorganize each section's hierarchy and information architecture
+- [x] Reorganize each section's hierarchy and information architecture
   - [x] Section 1 (Mindset and Motivations)
-  - [ ] Section 2 (Workflow)
-  - [x] Section 3 (Planning and Structure)
-  - [x] Section 4 (Visual Design)
-  - [ ] Section 5 (CSS Architecture)
-  - [ ] Section 6 (Styleguides and Pattern Libraries)
+  - [x] Section 2 (About Components)
+  - [x] Section 3 (Workflow)
+  - [x] Section 4 (Design Process)
+  - [x] Section 5 (CSS Architecture)
+  - [x] Section 6 (Styleguides and Pattern Libraries)
