@@ -1,8 +1,7 @@
 ##5) CSS Architecture
 
 
-###People to keep an eye on:
-[Harry Roberts](http://csswizardry.com/) • [Jonathan Snook](http://snook.ca/) • [Mark Otto](http://markdotto.com/)
+#####People to keep an eye on: [Harry Roberts](http://csswizardry.com/) • [Jonathan Snook](http://snook.ca/) • [Mark Otto](http://markdotto.com/)
 
 
 ###General Concept
