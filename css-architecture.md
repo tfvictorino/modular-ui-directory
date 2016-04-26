@@ -15,6 +15,7 @@
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a
 - http://drewbarontini.com/articles/everything-is-a-module/
 - https://speakerdeck.com/sugarenia/xxlcss-how-to-scale-css-and-keep-your-sanity
+- https://www.ckl.io/blog/css-architecture-first-steps/
 
 ####Specific concepts
 - https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers
