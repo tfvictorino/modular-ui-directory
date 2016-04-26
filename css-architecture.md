@@ -1,19 +1,12 @@
 ##5) CSS Architecture
 
-###People to keep an eye on:
-- **Harry Roberts**
-  - Writer on *CSSWizardry* blog: http://csswizardry.com/archive/
-  - Created *CSS Guidelines*: http://cssguidelin.es/
-  - Personal site: http://csswizardry.com/
-- **Jonathan Snook**
-  - Created *SMACSS*: https://smacss.com/
-  - Personal site: http://snook.ca/
-- **Mark Otto**
-  - Created *Bootstrap*: http://getbootstrap.com/
-  - Created *Primer* (GitHub's Framework): http://primercss.io/
-  - Personal site: http://markdotto.com/
 
-###General concept
+###People to keep an eye on:
+[Harry Roberts](http://csswizardry.com/archive/) • [Jonathan Snook](http://snook.ca/) • [Mark Otto](http://markdotto.com/).
+
+
+
+###General Concept
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 - http://www.sitepoint.com/series/css-architectures/
 - http://philipwalton.com/articles/css-architecture/
@@ -26,7 +19,8 @@
 - https://speakerdeck.com/sugarenia/xxlcss-how-to-scale-css-and-keep-your-sanity
 
 
-####Specific concepts
+
+#####Specific concepts
 - https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
@@ -35,9 +29,11 @@
 - http://csswizardry.com/2015/03/immutable-css/
 
 
-####Counterpoints
+
+#####Counterpoints
 - http://snugug.com/musings/css-strategy
 - http://www.kapowaz.net/articles/cargo-cult-css
+
 
 
 ###Methodologies
@@ -68,6 +64,21 @@
 - **Scally:** http://scally.chris-pearce.me/
 
 
+
+###Examples
+- **Salesforce:** https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082
+- **GitHub:** http://markdotto.com/2014/07/23/githubs-css/
+- **CodePen:** http://codepen.io/chriscoyier/blog/codepens-css
+- **Medium:** https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+- **Trello:** http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/
+- **Lonely Planet:** http://ianfeather.co.uk/css-at-lonely-planet/
+- **Groupon:** http://mikeaparicio.com/2014/08/10/css-at-groupon/
+- **Buffer:** http://blog.brianlovin.com/buffers-css/
+- **GOV.UK:** https://github.com/alphagov/govuk_frontend_toolkit
+- **BigCommerce:** http://www.bigeng.io/how-we-css-at-bigcommerce
+
+
+
 ###Books
 - https://smacss.com/book/
 - https://leanpub.com/enduringcss
@@ -75,7 +86,8 @@
 - [pt-br] http://www.casadocodigo.com.br/pages/sumario-css-eficiente
 
 
-###Code writing: guidelines and best practices
+
+###Code Guidelines and Best Practices
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
 - https://css-tricks.com/css-style-guides/
@@ -98,22 +110,7 @@
 
 
 
-###Class Naming
-http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 
-
-
-###Examples
-- **Salesforce:** https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082
-- **GitHub:** http://markdotto.com/2014/07/23/githubs-css/
-- **CodePen:** http://codepen.io/chriscoyier/blog/codepens-css
-- **Medium:** https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
-- **Trello:** http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/
-- **Lonely Planet:** http://ianfeather.co.uk/css-at-lonely-planet/
-- **Groupon:** http://mikeaparicio.com/2014/08/10/css-at-groupon/
-- **Buffer:** http://blog.brianlovin.com/buffers-css/
-- **GOV.UK:** https://github.com/alphagov/govuk_frontend_toolkit
-- **BigCommerce:** http://www.bigeng.io/how-we-css-at-bigcommerce
 
 
 ###Frameworks / Boilerplates
@@ -133,4 +130,4 @@ http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 ___
 
 ####Sections
-[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • **CSS Architecture** • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [About Components](about-components.md) • [Workflow](workflow.md) • [Design Process](design-process.md) • **CSS Architecture** • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)

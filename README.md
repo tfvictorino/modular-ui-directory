@@ -1,5 +1,5 @@
 #Modular User Interface Directory
-v.2.0
+v.3.0
 
 ##About
 Directory with several links and references with new perspectives and approaches on interface design, development and workflow.
@@ -11,16 +11,17 @@ Related subjects: components (a.k.a. modules, blocks, objects, patterns), design
 ##Sections
 
 ####[1) Mindset and Motivations](mindset-and-motivations.md)  
-####[2) Workflow](workflow.md)  
-####[3) Planning and Structure](planning-and-structure.md)  
-####[4) Visual Design](visual-design.md)  
+####[2) About Components](about-components.md)
+####[3) Workflow](workflow.md)
+####[4) Design Process](design-process.md)  
 ####[5) CSS Architecture](css-architecture.md)  
 ####[6) Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)  
 
 <br/>
 
-##TO DO (version 2.0)
+##TO DO
 - [x] Divide the directory in separated files/sections
+- [x] Reorganize general section organization
 - [ ] Reorganize each section's hierarchy and information architecture
   - [x] Section 1 (Mindset and Motivations)
   - [ ] Section 2 (Workflow)

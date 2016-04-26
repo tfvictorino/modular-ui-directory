@@ -51,4 +51,4 @@
 ___
 
 ####Sections
-[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [Workflow](workflow.md) • [Planning and Structure](planning-and-structure.md) • [Visual Design](visual-design.md) • [CSS Architecture](css-architecture.md) • **Styleguides and Pattern Libraries**
+[Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [About Components](about-components.md) • [Workflow](workflow.md) • [Design Process](design-process.md) • [CSS Architecture](css-architecture.md) • **Styleguides and Pattern Libraries**
