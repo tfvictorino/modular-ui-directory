@@ -17,9 +17,7 @@
 - http://drewbarontini.com/articles/everything-is-a-module/
 - https://speakerdeck.com/sugarenia/xxlcss-how-to-scale-css-and-keep-your-sanity
 
-
-
-#####Specific concepts
+####Specific concepts
 - https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
@@ -27,12 +25,12 @@
 - http://csswizardry.com/2015/04/cyclomatic-complexity-logic-in-css/
 - http://csswizardry.com/2015/03/immutable-css/
 
-
-
-#####Counterpoints
+####Counterpoints
 - http://snugug.com/musings/css-strategy
 - http://www.kapowaz.net/articles/cargo-cult-css
 
+
+<br/>
 
 
 ###Methodologies
@@ -42,6 +40,7 @@
 - http://viget.com/inspire/css-squareoff
 - [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
+
 - **SMACSS:** https://smacss.com/
 - **OOCSS:** https://github.com/stubbornella/oocss/
 - **BEM:** http://bem.info/
@@ -52,9 +51,8 @@
 - **DoCSSa:** http://docssa.info/
 - **MCSS:** http://operatino.github.io/MCSS/en/
 - **AMCSS:** http://amcss.github.io/
-- **ITCSS:** https://www.youtube.com/watch?v=1OKZOV-iLj4
-- http://www.hugobessa.com.br/posts/ITCSS-uma-maneira-de-pensar-arquiteturas-css/
-- **CSS For Grownups:** https://www.youtube.com/watch?v=ZpFdyfs03Ug
+- **ITCSS:** https://speakerdeck.com/dafed/managing-css-projects-with-itcss
+- **CSS For Grownups:** https://speakerdeck.com/andyhume/css-for-grown-ups-maturing-best-practises-sxsw-2012
 - **f(CSS):** http://www.jon.gold/2015/07/functional-css/
 - **Enduring CSS:** http://ecss.io/slides1/#/
 - **rscss:** http://rscss.io/
@@ -63,27 +61,7 @@
 - **Scally:** http://scally.chris-pearce.me/
 
 
-
-###Examples
-- **Salesforce:** https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082
-- **GitHub:** http://markdotto.com/2014/07/23/githubs-css/
-- **CodePen:** http://codepen.io/chriscoyier/blog/codepens-css
-- **Medium:** https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
-- **Trello:** http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/
-- **Lonely Planet:** http://ianfeather.co.uk/css-at-lonely-planet/
-- **Groupon:** http://mikeaparicio.com/2014/08/10/css-at-groupon/
-- **Buffer:** http://blog.brianlovin.com/buffers-css/
-- **GOV.UK:** https://github.com/alphagov/govuk_frontend_toolkit
-- **BigCommerce:** http://www.bigeng.io/how-we-css-at-bigcommerce
-
-
-
-###Books
-- https://smacss.com/book/
-- https://leanpub.com/enduringcss
-- http://www.amazon.com/Front-End-Architecture-Blueprint-Scalable-Sustainable/dp/1491926783
-- [pt-br] http://www.casadocodigo.com.br/pages/sumario-css-eficiente
-
+<br/>
 
 
 ###Code Guidelines and Best Practices
@@ -108,8 +86,33 @@
 - https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/
 
 
+<br/>
 
 
+###Examples
+- **Salesforce:** https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082
+- **GitHub:** http://markdotto.com/2014/07/23/githubs-css/
+- **CodePen:** http://codepen.io/chriscoyier/blog/codepens-css
+- **Medium:** https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+- **Trello:** http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/
+- **Lonely Planet:** http://ianfeather.co.uk/css-at-lonely-planet/
+- **Groupon:** http://mikeaparicio.com/2014/08/10/css-at-groupon/
+- **Buffer:** http://blog.brianlovin.com/buffers-css/
+- **GOV.UK:** https://github.com/alphagov/govuk_frontend_toolkit
+- **BigCommerce:** http://www.bigeng.io/how-we-css-at-bigcommerce
+
+
+<br/>
+
+
+###Books
+- **Scalable and Modular Architecture for CSS:** https://smacss.com/book/
+- **Enduring CSS:** https://leanpub.com/enduringcss
+- **Frontend Architecture for Design Systems:** http://www.amazon.com/Front-End-Architecture-Blueprint-Scalable-Sustainable/dp/1491926783
+- **CSS Eficiente:** [pt-br] http://www.casadocodigo.com.br/pages/sumario-css-eficiente
+
+
+<br/>
 
 
 ###Frameworks / Boilerplates
