@@ -41,6 +41,7 @@
 - **SC5:** http://styleguide.sc5.io/
 - **DocumentCSS:** http://documentcss.com/
 - **Styleguide:** http://devbridge.github.io/Styleguide/
+- **Fractal:** https://github.com/frctl/fractal
 
 
 <br/>
