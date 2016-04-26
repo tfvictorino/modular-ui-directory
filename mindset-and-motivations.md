@@ -1,5 +1,9 @@
 ##1) Mindset and Motivations
 
+###People to keep an eye on:
+[Brad Frost](http://bradfrost.com/) • [Nathan Curtis](http://www.eightshapes.com/nathan-curtis.html)
+
+
 ###Modularity
 - https://www.w3.org/DesignIssues/Modularity.html
 
@@ -19,6 +23,7 @@
 - http://stuffandnonsense.co.uk/blog/about/an-extract-from-designing-atoms-and-elements
 - http://trentwalton.com/2016/02/26/atomic-classification/
 - https://medium.com/eightshapes-llc/on-classification-in-design-systems-6b33b97f4a8f
+- http://blog.invisionapp.com/atomic-design-principles/
 
 ####Books
 - http://atomicdesign.bradfrost.com/chapter-1/
