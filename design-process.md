@@ -1,4 +1,4 @@
-##4) Visual Design
+##4) Design Process
 
 ###Project Guidance
 ####Design studio

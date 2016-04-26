@@ -1,4 +1,4 @@
-##2) Components
+##2) About Components
 
 ### Naming components
 - http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
