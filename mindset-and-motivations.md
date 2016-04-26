@@ -32,7 +32,7 @@
 
 
 ###Styleguide-driven Development
-> "Styleguides help solve these problems by acting as common ground for how a site should look and feel, and how it should be built." - Tamara Chu  
+> "Styleguides help solve these problems by acting as common ground for how a site should look and feel, and how it should be built." — Tamara Chu  
 
 - http://getflexin.com/styleguide-driven-development/
 - http://webuild.envato.com/blog/styleguide-driven-development/
