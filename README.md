@@ -19,5 +19,6 @@ Please, feel free to collaborate by opening [pull requests](https://github.com/t
 ####[6) Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)  
 
 <br/>
+--
 
 Promoted by the [ModularUI](http://modular-ui.com/) movement.
