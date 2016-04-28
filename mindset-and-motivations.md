@@ -10,6 +10,8 @@
 ###Design Systems
 **People to keep an eye on:** [Brad Frost](http://bradfrost.com/) • [Nathan Curtis](http://www.eightshapes.com/nathan-curtis.html) • [Jina Bolton](http://jina.me/)
 
+<br/>
+
 > "We’re not designing pages, we’re designing systems of components." — Stephen Hay  
 
 - http://bradfrostweb.com/blog/post/atomic-web-design/
@@ -64,6 +66,7 @@
 - https://medium.com/@astralwave/designing-for-outcomes-a6484e1682cc
 - http://tympanus.net/codrops/2013/09/23/so-youre-a-web-designer-right/
 - https://stuffandnonsense.co.uk/blog/about/time_to_stop_showing_clients_static_design_visuals/
+
 
 <br/>
 ___
