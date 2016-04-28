@@ -2,6 +2,7 @@
 
 
 #####People to keep an eye on: [Harry Roberts](http://csswizardry.com/) • [Jonathan Snook](http://snook.ca/) • [Mark Otto](http://markdotto.com/)
+#####Other lists to keep an eye on: [Scalable CSS Reading List](https://github.com/davidtheclark/scalable-css-reading-list) • [Awesome CSS](https://github.com/sotayamashita/awesome-css)
 
 
 ###General Concept
