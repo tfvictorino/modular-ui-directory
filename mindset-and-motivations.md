@@ -8,7 +8,7 @@
 
 
 ###Design Systems
-#####People to keep an eye on: [Brad Frost](http://bradfrost.com/) • [Nathan Curtis](http://www.eightshapes.com/nathan-curtis.html) • [Jina Bolton](http://jina.me/)
+**People to keep an eye on:** [Brad Frost](http://bradfrost.com/) • [Nathan Curtis](http://www.eightshapes.com/nathan-curtis.html) • [Jina Bolton](http://jina.me/)
 
 > "We’re not designing pages, we’re designing systems of components." — Stephen Hay  
 
