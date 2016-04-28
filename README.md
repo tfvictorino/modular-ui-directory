@@ -21,4 +21,4 @@ Please, feel free to collaborate by opening [pull requests](https://github.com/t
 <br/>
 --
 
-Promoted by the [ModularUI](http://modular-ui.com/) movement.
+*Curated by [Thiago Victorino](https://github.com/tfvictorino) with help from [Ítalo Mendonça](http://www.italomen.com.br/).*
