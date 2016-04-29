@@ -25,6 +25,7 @@
 - **Priority Guide:** http://www.smashingmagazine.com/2012/05/design-process-responsive-age/
 - **Content Inventory:** https://responsivedesign.is/design/content-first-design
 - **Content Matrix:** [pt-br] http://blog.taller.net.br/lean-redesign-ui-episodio-03-arquitetura-da-informacao/
+- **Object-oriented UX:** http://alistapart.com/article/ooux-a-foundation-for-interaction-design
 
 
 <br/>

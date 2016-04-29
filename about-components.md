@@ -1,8 +1,12 @@
 ##2) About Components
 
-### Naming components
+### General Concept
+#### Naming Components
 - http://danielmall.com/articles/content-display-patterns/
 - http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
+
+#### Reviewing Components
+- http://product.voxmedia.com/2016/4/20/11458814/how-designers-can-use-unit-testing-to-build-resilient-and-happy-design-systems
 
 
 <br/>
