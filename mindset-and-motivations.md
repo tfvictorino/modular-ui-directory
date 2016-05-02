@@ -24,8 +24,6 @@
 - http://trentwalton.com/2016/02/26/atomic-classification/
 - https://medium.com/eightshapes-llc/on-classification-in-design-systems-6b33b97f4a8f
 - http://blog.invisionapp.com/atomic-design-principles/
-- https://medium.com/salesforce-ux/designing-products-that-scale-c8f3001f709b#.ym25oygc0
-- [pt-br] http://shipit.resultadosdigitais.com.br/blog/a-trajetoria-para-um-produto-com-design-escalavel/
 
 ####Books
 - **Atomic Design Book:** http://atomicdesign.bradfrost.com/
