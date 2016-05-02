@@ -41,8 +41,8 @@
 
 
 ###Software Workflow
-####Sketch
 - http://blog.invisionapp.com/modular-design/
+- https://medium.com/@tristanminor/how-to-be-more-organized-while-designing-ui-90d2d69cfb4f
 
 
 <br/>
