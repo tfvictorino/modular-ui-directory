@@ -51,6 +51,7 @@
 
 - http://bradfrostweb.com/blog/post/development-is-design/
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
+- http://blog.fullstory.com/2016/04/engaging-engineering-in-design/
 
 
 </br>

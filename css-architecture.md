@@ -31,6 +31,8 @@
 ####Counterpoints
 - http://snugug.com/musings/css-strategy
 - http://www.kapowaz.net/articles/cargo-cult-css
+- http://mrmrs.io/writing/2016/03/24/scalable-css/
+- http://alistapart.com/article/meaningful-css-style-like-you-mean-it
 
 
 <br/>
