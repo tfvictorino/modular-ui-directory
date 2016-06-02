@@ -51,6 +51,7 @@
 
 - http://bradfrostweb.com/blog/post/development-is-design/
 - http://cognition.happycog.com/article/make-sweet-systems-sweeter
+- https://www.ckl.io/blog/collaboration-interdisciplinarity-product-development/
 
 
 </br>

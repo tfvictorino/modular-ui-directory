@@ -6,6 +6,7 @@
 - http://bradfrost.com/blog/post/email-responses-1-workflow-educating-clients/
 - [pt-br] http://www.uxdesign.blog.br/design-responsivo/responsive-design-workflow/
 - [pt-br] http://www.felipefialho.com/blog/2013/um-conto-sobre-componentizacao-e-quebra-de-paradigmas/
+- https://www.smashingmagazine.com/2016/05/design-systems-responsive-design-sell-output-not-workflow/
 
 
 ###Cases

@@ -1,6 +1,8 @@
 ##2) About Components
 
 ### General Concept
+- https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742#.3o1oltiqb
+
 #### Naming Components
 - http://danielmall.com/articles/content-display-patterns/
 - http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
