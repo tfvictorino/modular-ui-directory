@@ -1,7 +1,7 @@
 ##6) Styleguides and Pattern Libraries
 
 **People to keep an eye on:** [Anna Debenham](http://maban.co.uk/) • [Brad Frost](http://bradfrost.com/)  
-**Other lists to keep an eye on:** [Styleguides.io](- http://styleguides.io) • [Pattern Library Directory]( https://github.com/marcelosomers/pattern-library-directory)
+**Other lists to keep an eye on:** [Styleguides.io](http://styleguides.io) • [Pattern Library Directory]( https://github.com/marcelosomers/pattern-library-directory) • [Styleguide Generators](https://github.com/davidhund/styleguide-generators)
 
 
 <br/>
