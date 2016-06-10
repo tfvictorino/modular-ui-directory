@@ -55,6 +55,7 @@
 - https://www.bloco.io/blog/2016/stop-making-your-developers-design-your-product
 - http://blog.fullstory.com/2016/04/engaging-engineering-in-design/
 - https://blog.intercom.io/there-is-no-hand-off-product-design/
+- https://www.ckl.io/blog/collaboration-interdisciplinarity-product-development/
 
 
 </br>

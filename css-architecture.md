@@ -9,8 +9,8 @@
 
 ###General Concept
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
-- http://www.sitepoint.com/series/css-architectures/
 - http://philipwalton.com/articles/css-architecture/
+- http://www.sitepoint.com/series/css-architectures/
 - http://engineering.appfolio.com/2012/11/16/css-architecture/
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e
 - [pt-br] https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d
@@ -46,7 +46,6 @@
 - http://viget.com/inspire/css-squareoff
 - [pt-br] https://speakerdeck.com/rafaelrinaldi/arquitetura-css
 - [pt-br] http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/
-
 - **SMACSS:** https://smacss.com/
 - **OOCSS:** https://github.com/stubbornella/oocss/
 - **BEM:** http://bem.info/
