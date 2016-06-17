@@ -34,6 +34,7 @@
 ###Styleguide-driven Development
 > "Styleguides help solve these problems by acting as common ground for how a site should look and feel, and how it should be built." — Tamara Chu  
 
+- https://www.smashingmagazine.com/2016/06/designing-modular-ui-systems-via-style-guide-driven-development/
 - http://getflexin.com/styleguide-driven-development/
 - http://webuild.envato.com/blog/styleguide-driven-development/
 - https://engineering.eventbrite.com/styleguide-driven-development-at-eventbrite-introduction/
