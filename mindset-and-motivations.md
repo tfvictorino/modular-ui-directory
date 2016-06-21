@@ -42,6 +42,7 @@
 - https://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them-atomic-design-patternlab/
 - https://medium.com/salesforce-ux/designing-products-that-scale-c8f3001f709b#.ym25oygc0
 - https://css-tricks.com/style-guide-driven-development-atomic-docs/
+- https://speakerdeck.com/broccolini/empowering-designers-to-code-2
 - [pt-br] http://shipit.resultadosdigitais.com.br/blog/a-trajetoria-para-um-produto-com-design-escalavel/
 
 
