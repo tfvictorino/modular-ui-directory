@@ -64,6 +64,7 @@
 - **Title CSS:** http://www.sitepoint.com/title-css-simple-approach-css-class-naming/
 - **Classy CSS:** http://una.im/classy-css/
 - **MaintanableCSS:** http://maintainablecss.com/
+- **Atomic CSS:** http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/
 
 
 <br/>
@@ -133,6 +134,7 @@
 - http://www.basscss.com/
 - http://tachyons.io/
 - http://scally.chris-pearce.me
+- http://acss.io
 
 
 <br/>
