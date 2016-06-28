@@ -65,6 +65,7 @@
 - **Classy CSS:** http://una.im/classy-css/
 - **MaintanableCSS:** http://maintainablecss.com/
 - **Atomic CSS:** http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/
+- **CSS Bliss:** https://github.com/gilbox/css-bliss
 
 
 <br/>
