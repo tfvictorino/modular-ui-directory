@@ -16,7 +16,6 @@
 
 ### References
 ####Common UI Patterns
-- http://pea.rs/
 - http://codepen.io/patterns/
 - http://blog.cloudfour.com/common-patterns/
 
