@@ -44,6 +44,7 @@
 - http://blog.invisionapp.com/modular-design/
 - https://medium.com/@tristanminor/how-to-be-more-organized-while-designing-ui-90d2d69cfb4f
 - https://medium.com/blablacar-design/stop-designing-interfaces-start-designing-experiences-d82def0b802c#.sjqzlodgh
+- https://medium.com/@lloyd/sketch-symbol-best-practices-c957511f1188
 
 
 <br/>
