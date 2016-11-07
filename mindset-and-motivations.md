@@ -59,6 +59,8 @@
 - http://blog.fullstory.com/2016/04/engaging-engineering-in-design/
 - https://blog.intercom.io/there-is-no-hand-off-product-design/
 - https://www.ckl.io/blog/collaboration-interdisciplinarity-product-development/
+- http://blog.invisionapp.com/design-questions-developers/
+- http://blog.invisionapp.com/designer-developer-collaboration/
 
 
 </br>
