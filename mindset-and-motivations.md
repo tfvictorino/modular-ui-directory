@@ -1,13 +1,13 @@
-##1) Mindset and Motivations
+## 1) Mindset and Motivations
 
-###Modularity
+### Modularity
 - https://www.w3.org/DesignIssues/Modularity.html
 
 
 <br/>
 
 
-###Design Systems
+### Design Systems
 > "We’re not designing pages, we’re designing systems of components." — Stephen Hay  
 
 **People to keep an eye on:** [Brad Frost](http://bradfrost.com/) • [Nathan Curtis](http://www.eightshapes.com/nathan-curtis.html) • [Jina Bolton](http://jina.me/)
@@ -23,7 +23,7 @@
 - https://medium.com/eightshapes-llc/on-classification-in-design-systems-6b33b97f4a8f
 - http://blog.invisionapp.com/atomic-design-principles/
 
-####Books
+#### Books
 - **Atomic Design Book:** http://atomicdesign.bradfrost.com/
 - **Modular Web Design:** http://www.amazon.com/Modular-Web-Design-Components-Documentation/dp/0321601351
 
@@ -31,7 +31,7 @@
 <br/>
 
 
-###Styleguide-driven Development
+### Styleguide-driven Development
 > "Styleguides help solve these problems by acting as common ground for how a site should look and feel, and how it should be built." — Tamara Chu  
 
 - https://www.smashingmagazine.com/2016/06/designing-modular-ui-systems-via-style-guide-driven-development/
@@ -49,7 +49,7 @@
 </br>
 
 
-###Design/Development Collaboration
+### Design/Development Collaboration
 > "The modern Web design process requires intense collaboration between designers and front-end developers. Real collaboration and communication are difficult, but we must get over that awkwardness in order to overcome the design/development divide." — Brad Frost  
 
 - http://bradfrostweb.com/blog/post/development-is-design/
@@ -66,7 +66,7 @@
 </br>
 
 
-###Deliverables
+### Deliverables
 > "In order to effectively design for today and tomorrow’s Web, we must replace outdated design artifacts with real collaboration and communication." — Brad Frost  
 
 - http://bradfrostweb.com/blog/post/the-post-psd-era/
@@ -81,5 +81,5 @@
 <br/>
 ___
 
-####Sections
+#### Sections
 [Summary](README.md) • **Mindset and Motivations** • [About Components](about-components.md) • [Workflow](workflow.md) • [Design Process](design-process.md) • [CSS Architecture](css-architecture.md) • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)

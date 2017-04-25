@@ -1,4 +1,4 @@
-##6) Styleguides and Pattern Libraries
+## 6) Styleguides and Pattern Libraries
 
 **People to keep an eye on:** [Anna Debenham](http://maban.co.uk/) • [Brad Frost](http://bradfrost.com/)  
 **Other lists to keep an eye on:** [Styleguides.io](http://styleguides.io) • [Pattern Library Directory]( https://github.com/marcelosomers/pattern-library-directory) • [Styleguide Generators](https://github.com/davidhund/styleguide-generators)
@@ -7,7 +7,7 @@
 <br/>
 
 
-###General Concept
+### General Concept
 - https://www.nngroup.com/articles/front-end-style-guides/
 - http://24ways.org/2011/front-end-style-guides/
 - http://boagworld.com/design/pattern-library/
@@ -20,7 +20,7 @@
 - https://www.springload.co.nz/blog/introduction-pattern-libraries/
 - http://clearleft.com/thinks/382
 
-####Automatization
+#### Automatization
 - http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
 - http://ianfeather.co.uk/a-maintainable-style-guide/
 - http://marcelosomers.com/keeping-pattern-libraries-in-sync
@@ -29,7 +29,7 @@
 <br/>
 
 
-###Tools
+### Tools
 - https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05
 - http://welchcanavan.com/styleguide-roundup/
 - http://byrichardpowell.co.uk/post/48682993574/on-css-documentation
@@ -49,7 +49,7 @@
 <br/>
 
 
-###Examples
+### Examples
 - http://styleguides.io/examples.html
 - https://github.com/marcelosomers/pattern-library-directory
 
@@ -57,12 +57,12 @@
 <br/>
 
 
-###Books
+### Books
 - **Front-end Style Guides:** http://maban.co.uk/projects/front-end-style-guides/
 
 
 <br/>
 ___
 
-####Sections
+#### Sections
 [Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [About Components](about-components.md) • [Workflow](workflow.md) • [Design Process](design-process.md) • [CSS Architecture](css-architecture.md) • **Styleguides and Pattern Libraries**

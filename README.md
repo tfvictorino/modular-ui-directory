@@ -1,6 +1,6 @@
-#Modular User Interface Directory
+# Modular User Interface Directory
 
-##About
+## About
 This directory is a set of references on new perspectives and approaches for building user interfaces and design systems. It covers the motivations behind this mindset, as well as ways to achieving it on design and front-end workflows. You'll find several articles, tools, methodologies and techniques written by awesome people from the Web community. I hope that they inspire you as they inspired me.
 
 Please, feel free to collaborate by opening [pull requests](https://github.com/modular-ui/modular-ui-directory/pulls) – with new links or other section/topic ideas, for example – or creating [issues](https://github.com/modular-ui/modular-ui-directory/issues) with suggestions.
@@ -9,14 +9,14 @@ Please, feel free to collaborate by opening [pull requests](https://github.com/m
 
 <br/>
 
-##Sections
+## Sections
 
-####[1) Mindset and Motivations](mindset-and-motivations.md)  
-####[2) About Components](about-components.md)
-####[3) Workflow](workflow.md)
-####[4) Design Process](design-process.md)  
-####[5) CSS Architecture](css-architecture.md)  
-####[6) Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)  
+#### [1) Mindset and Motivations](mindset-and-motivations.md)  
+#### [2) About Components](about-components.md)
+#### [3) Workflow](workflow.md)
+#### [4) Design Process](design-process.md)  
+#### [5) CSS Architecture](css-architecture.md)  
+#### [6) Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)  
 
 <br/>
 --

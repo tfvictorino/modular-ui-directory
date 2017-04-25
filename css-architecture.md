@@ -1,4 +1,4 @@
-##5) CSS Architecture
+## 5) CSS Architecture
 
 **People to keep an eye on:** [Harry Roberts](http://csswizardry.com/) • [Jonathan Snook](http://snook.ca/) • [Mark Otto](http://markdotto.com/)  
 **Other lists to keep an eye on:** [Scalable CSS Reading List](https://github.com/davidtheclark/scalable-css-reading-list) • [Awesome CSS](https://github.com/sotayamashita/awesome-css)
@@ -7,7 +7,7 @@
 <br/>
 
 
-###General Concept
+### General Concept
 - http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 - http://philipwalton.com/articles/css-architecture/
 - http://www.sitepoint.com/series/css-architectures/
@@ -23,7 +23,7 @@
 - http://bradfrost.com/blog/post/css-architecture-for-design-systems/
 - https://seesparkbox.com/foundry/thoughtful_css_architecture
 
-####Specific concepts
+#### Specific concepts
 - https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers
 - http://blog.millermedeiros.com/solid-css/
 - http://drewbarontini.com/articles/single-responsibility/
@@ -31,7 +31,7 @@
 - http://csswizardry.com/2015/04/cyclomatic-complexity-logic-in-css/
 - http://csswizardry.com/2015/03/immutable-css/
 
-####Counterpoints
+#### Counterpoints
 - http://snugug.com/musings/css-strategy
 - http://www.kapowaz.net/articles/cargo-cult-css
 - http://mrmrs.io/writing/2016/03/24/scalable-css/
@@ -41,7 +41,7 @@
 <br/>
 
 
-###Methodologies
+### Methodologies
 - http://sixrevisions.com/css/css-methodologies/
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - http://www.sitepoint.com/atomic-oobemitscss/
@@ -73,7 +73,7 @@
 <br/>
 
 
-###Code Guidelines and Best Practices
+### Code Guidelines and Best Practices
 - http://cssguidelin.es/
 - https://github.com/necolas/idiomatic-css
 - https://css-tricks.com/css-style-guides/
@@ -98,7 +98,7 @@
 <br/>
 
 
-###Examples
+### Examples
 - **Salesforce:** https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082
 - **GitHub:** http://markdotto.com/2014/07/23/githubs-css/
 - **CodePen:** http://codepen.io/chriscoyier/blog/codepens-css
@@ -115,7 +115,7 @@
 <br/>
 
 
-###Books
+### Books
 - **Scalable and Modular Architecture for CSS:** https://smacss.com/book/
 - **Enduring CSS:** https://leanpub.com/enduringcss
 - **Frontend Architecture for Design Systems:** http://www.amazon.com/Front-End-Architecture-Blueprint-Scalable-Sustainable/dp/1491926783
@@ -125,7 +125,7 @@
 <br/>
 
 
-###Frameworks / Boilerplates
+### Frameworks / Boilerplates
 - http://www.sitepoint.com/component-driven-css-frameworks/
 - https://developers.google.com/web/starter-kit
 - http://skyline.is/
@@ -143,5 +143,5 @@
 <br/>
 ___
 
-####Sections
+#### Sections
 [Summary](README.md) • [Mindset and Motivations](mindset-and-motivations.md) • [About Components](about-components.md) • [Workflow](workflow.md) • [Design Process](design-process.md) • **CSS Architecture** • [Styleguides and Pattern Libraries](styleguides-and-pattern-libraries.md)
